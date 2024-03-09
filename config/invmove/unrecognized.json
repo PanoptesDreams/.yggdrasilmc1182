@@ -1,0 +1,41 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_433": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "net.minecraft.class_410": true,
+    "me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI": true,
+    "me.shedaniel.advancementsenlarger.gui.BiggerAdvancementsScreen": true,
+    "net.minecraft.class_5375": true,
+    "dlovin.advancedcompass.gui.config.AdvCompassConfigScreen": true,
+    "net.minecraft.class_5522": true,
+    "dlovin.advancedcompass.gui.config.WaypointAddGui": true,
+    "dlovin.advancedcompass.gui.config.WaypointListGui": true,
+    "setadokalo.customfog.config.gui.CustomFogConfigScreen": true,
+    "setadokalo.customfog.config.gui.DimensionConfigScreen": true,
+    "com.finallion.graveyard.client.gui.GravestoneScreen": true,
+    "fabric.com.seibel.lod.common.wrappers.config.ConfigGui$ConfigScreen": true,
+    "net.diebuddies.physics.settings.PhysicsSettingsScreen": true,
+    "tech.thatgravyboat.ironchests.client.ChestScreen": true,
+    "snownee.jade.gui.HomeConfigScreen": true,
+    "snownee.jade.gui.WailaConfigScreen": true,
+    "snownee.jade.gui.PluginsConfigScreen": true,
+    "snownee.jade.gui.PluginsConfigScreen$1": true,
+    "net.kyrptonaught.kyrptconfig.config.screen.ConfigScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "eu.ha3.presencefootsteps.PFOptionsScreen": true,
+    "dev.quantumfusion.dashloader.client.DashCachingScreen": true,
+    "com.minenash.seamless_loading_screen.FinishQuit": true,
+    "moriyashiine.enchancement.client.screen.EnchantingTableScreen": true,
+    "subaraki.paintings.gui.PaintingScreen": true,
+    "org.anti_ad.mc.ipnext.gui.ConfigScreen": true,
+    "net.minecraft.class_407": true,
+    "dlovin.advancedcompass.gui.config.EntityListConfigScreen": true,
+    "dlovin.advancedcompass.gui.config.IconConfigGui": true
+  },
+  "hideBackground": {
+    "net.minecraft.class_5522": true,
+    "tech.thatgravyboat.ironchests.client.ChestScreen": true,
+    "moriyashiine.enchancement.client.screen.EnchantingTableScreen": true
+  }
+}

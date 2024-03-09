@@ -1,0 +1,14 @@
+name = "Camp Fires Cook Mobs"
+filename = "camp-fires-cook-mobs-1.2.6+MC1.18-1.18.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6356929a461726d7666b3c0e237dafe5c6958d8f"
+
+[update]
+[update.curseforge]
+file-id = 3809728
+project-id = 395985

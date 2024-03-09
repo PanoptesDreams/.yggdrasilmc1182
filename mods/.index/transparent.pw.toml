@@ -1,0 +1,14 @@
+name = "Transparent"
+filename = "transparent-4.1.0+1.18.2-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zp4jb9oQ/versions/4.1.0%2B1.18.2-fabric/transparent-4.1.0%2B1.18.2-fabric.jar"
+hash-format = "sha512"
+hash = "cec900e217fb56374eebb90069df3456369b0079f8341ebe036c6b9c68578f869b57f7a486acd99195f02c9b6b53f638d634bfa11f593dabd47cf34cb6b81102"
+
+[update]
+[update.modrinth]
+mod-id = "zp4jb9oQ"
+version = "6p2TBnzZ"

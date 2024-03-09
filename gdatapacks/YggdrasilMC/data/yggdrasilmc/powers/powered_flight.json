@@ -1,0 +1,6 @@
+{
+	"type": "origins:elytra_flight",
+    "name": "Queen's Wings",
+    "description": "The Hive Queen can glide",
+	"render_elytra": false
+}

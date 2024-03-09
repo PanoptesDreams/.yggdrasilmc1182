@@ -1,0 +1,14 @@
+name = "Improved Fire Overlay"
+filename = "improved-fire-overlay-1.18.2-v1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LXDmuHJP/versions/10WtCjJv/improved-fire-overlay-1.18.2.jar"
+hash-format = "sha512"
+hash = "c05596bc3cbf6b2869b55f69116114c6f802f7086b50ece1a689d3668da733a8e67dcdcefd709980dc46dd3118cbe6e17a326f7c9ddccc04d20cc4181e7ac42d"
+
+[update]
+[update.modrinth]
+mod-id = "LXDmuHJP"
+version = "10WtCjJv"

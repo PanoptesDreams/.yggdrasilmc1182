@@ -1,0 +1,14 @@
+name = "Fabulous Clouds"
+filename = "fabulousclouds-0.3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Dx7R69WU/versions/0.3.0/fabulousclouds-0.3.0.jar"
+hash-format = "sha512"
+hash = "5ffea68345151608eb190581204861b80ddf2a9f43fd2551f326c24a3a3938a431c239e94f66557f44f666b8f514eade9d0c08e1144da40c252f64bf8d8f8639"
+
+[update]
+[update.modrinth]
+mod-id = "Dx7R69WU"
+version = "3s9LcPov"

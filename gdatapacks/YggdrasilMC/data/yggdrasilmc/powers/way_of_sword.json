@@ -1,0 +1,11 @@
+{
+	"type": "origins:attribute",
+    "name": "Way of The Sword",
+    "description": "Hive have powerful claws that can cause great damage",
+	"modifier": {
+		"name": "Origin modifier",
+		"attribute": "minecraft:generic.attack_damage ",
+		"value": 6,
+		"operation": "addition"
+	}
+}

@@ -1,0 +1,14 @@
+name = "Elytra Flight HUD"
+filename = "elytra-flight-hud-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d167eecedea5d957b814633457103bb97a555c0f"
+
+[update]
+[update.curseforge]
+file-id = 3772904
+project-id = 560453

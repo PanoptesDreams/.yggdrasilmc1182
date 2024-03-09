@@ -1,0 +1,14 @@
+name = "Infusion Table"
+filename = "infusion-table-mod-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/W9CiRGYK/versions/1.1.0-1.18/infusion-table-mod-1.1.0.jar"
+hash-format = "sha512"
+hash = "11cb62fffd8713447a002d4ba29698cab33b1a9f53dbe4dd018f35bd3755fa2d09e1992e7e48b21954c3a03b35fe44186439c555a769fd1bb6f8e9494516198a"
+
+[update]
+[update.modrinth]
+mod-id = "W9CiRGYK"
+version = "nNPUWcZ0"

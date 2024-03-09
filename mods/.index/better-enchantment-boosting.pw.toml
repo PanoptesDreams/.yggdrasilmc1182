@@ -1,0 +1,14 @@
+name = "Better Enchantment Boosting"
+filename = "Better-Enchantment-Boosting-1.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fJeQl13M/versions/1.2.0/Better-Enchantment-Boosting-1.2.0.jar"
+hash-format = "sha512"
+hash = "cb6e50f7fa50c280b759cf47b37d1a7bc9bafd0a07dbf9b1d832317a515c077216025b2146051f54b344107c0a38ca1454b78e3fd0d026d3aee2c8064b992225"
+
+[update]
+[update.modrinth]
+mod-id = "fJeQl13M"
+version = "i8asUc75"

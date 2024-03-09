@@ -1,0 +1,11 @@
+{
+  "text.mod_id.name": "キャンプファイヤークックモブズ",
+  "text.autoconfig.camp_fires_cook_mobs.title": "キャンプファイヤークックモブの設定",
+  "text.autoconfig.camp_fires_cook_mobs.option.standard_campfires_burn_items": "標準的なキャンプファイヤーは、投げられたアイテムを燃やします",
+  "text.autoconfig.camp_fires_cook_mobs.option.soul_campfires_burn_items": "魂のキャンプファイヤーは投げられたアイテムを燃やします",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_standard_campfires": "Frostwalkerは標準的なキャンプ火災から保護します",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_soul_campfires": "フロストウォーカーは魂キャンプの火災から守ります",
+  "text.autoconfig.camp_fires_cook_mobs.option.fetch_translation_updates": "Crowdin翻訳の更新を有効にする",
+  "text.mod_id.no_config_screen.title": "${name} の設定は利用できません",
+  "text.mod_id.no_config_screen.message": "§c設定を有効にするにはCloth Configをインストールしてください。"
+}

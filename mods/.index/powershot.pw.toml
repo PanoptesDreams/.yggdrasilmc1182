@@ -1,0 +1,14 @@
+name = "Powershot"
+filename = "powershot-1.4.0-1.18.2-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/O87oaOPs/versions/1.4.0-1.18.2-fabric/powershot-1.4.0-1.18.2-fabric.jar"
+hash-format = "sha512"
+hash = "537018bede5624e2c2a253a7fb3770fa9fbab987f5a625d976683fb9ebcde9cdb256c43c3f68896fc2725c08b1c288cb09ad30b60a2d90749be0096627749b32"
+
+[update]
+[update.modrinth]
+mod-id = "O87oaOPs"
+version = "IHE1Prwv"

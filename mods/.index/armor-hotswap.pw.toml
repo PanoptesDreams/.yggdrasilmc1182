@@ -1,0 +1,14 @@
+name = "Armor Hotswap"
+filename = "armorhotswap-fabric-1.18-1.7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0a8e8d3bfaf2391f1e86976494f9219e665149cc"
+
+[update]
+[update.curseforge]
+file-id = 3543979
+project-id = 419758

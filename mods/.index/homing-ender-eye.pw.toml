@@ -1,0 +1,14 @@
+name = "Homing Ender Eye"
+filename = "homing_ender_eye-1.18.2-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/k7kuEnwe/versions/rBgE7sPF/homing_ender_eye-1.18.2-1.1.1.jar"
+hash-format = "sha512"
+hash = "0562d92d92c11529741519bc2208d585a32b8bd10330e3622b4329fce0e97f6c0487ae89fd34bb48a197208030e93dac138e28b427b383c8691072dd053ff769"
+
+[update]
+[update.modrinth]
+mod-id = "k7kuEnwe"
+version = "rBgE7sPF"

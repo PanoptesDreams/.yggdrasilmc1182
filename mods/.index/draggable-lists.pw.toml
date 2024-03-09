@@ -1,0 +1,14 @@
+name = "Draggable Lists"
+filename = "DraggableResourcePacks-2.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "cbda07149b455dc888a8dec798b8454ec1bf3e7d"
+
+[update]
+[update.curseforge]
+file-id = 3558606
+project-id = 522697

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "OBO",
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond_block"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "B": {
+            "item": "minecraft:bookshelf"
+        }
+    },
+    "result": {
+        "item": "minecraft:enchanting_table",
+        "count": 1
+    }
+}

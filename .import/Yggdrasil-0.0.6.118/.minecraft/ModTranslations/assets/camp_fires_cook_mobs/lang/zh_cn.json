@@ -1,0 +1,11 @@
+{
+  "text.mod_id.name": "Campfires Cook Mobs",
+  "text.autoconfig.camp_fires_cook_mobs.title": "“Campfires Cook Mobs”配置",
+  "text.autoconfig.camp_fires_cook_mobs.option.standard_campfires_burn_items": "普通营火会烧毁扔在上面的物品",
+  "text.autoconfig.camp_fires_cook_mobs.option.soul_campfires_burn_items": "灵魂营火会燃烧扔在上面的物品",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_standard_campfires": "冰霜行者能避免普通营火的烧伤",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_soul_campfires": "冰霜行者能避免灵魂营火的烧伤",
+  "text.autoconfig.camp_fires_cook_mobs.option.fetch_translation_updates": "启用 Crowdin 翻译更新",
+  "text.mod_id.no_config_screen.title": "“${name}”配置不可用",
+  "text.mod_id.no_config_screen.message": "安装“Cloth Config”以启用配置。"
+}

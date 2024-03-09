@@ -1,0 +1,14 @@
+name = "Friends&Foes"
+filename = "friendsandfoes-fabric-mc1.18.2-1.4.8.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/POQ2i9zu/versions/sUdjTPy9/friendsandfoes-fabric-mc1.18.2-1.4.8.jar"
+hash-format = "sha512"
+hash = "c78bb0d1567ec5b67ede0e18f5b64be91854f3072dee218c8ebc030e49e5d6274a0bd855564218d2059c51b5e81a98e3c7c34d79f93bb077d1f0a26f07470d37"
+
+[update]
+[update.modrinth]
+mod-id = "POQ2i9zu"
+version = "sUdjTPy9"

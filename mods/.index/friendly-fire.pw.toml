@@ -1,0 +1,14 @@
+name = "FriendlyFire"
+filename = "FriendlyFire-Fabric-1.18.2-11.0.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FTaA4pRW/versions/IhkZ9Vuw/FriendlyFire-Fabric-1.18.2-11.0.4.jar"
+hash-format = "sha512"
+hash = "ef3f3b5580b4cabfd19c393782408ab0e471715b9506c8b1a12f00d63caf3df770ad7713dadfa5bdb0d8c8a37afdd7691882d5d8d0961cd748e73da7239f4424"
+
+[update]
+[update.modrinth]
+mod-id = "FTaA4pRW"
+version = "IhkZ9Vuw"

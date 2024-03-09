@@ -1,0 +1,14 @@
+name = "Fall Through Slime (Legacy Fabric)"
+filename = "fallthroughslime-fabric_1.18.x-1.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "729f075ee0fd0d16e7bc004c1053c6a7b968b948"
+
+[update]
+[update.curseforge]
+file-id = 3542261
+project-id = 530614

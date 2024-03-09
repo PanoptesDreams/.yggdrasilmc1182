@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "name": "Chitin Plating",
+    "description": "Hive skin is composed of Chitin making them incredibly durable",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "value": 20,
+        "operation": "addition"
+    }
+}

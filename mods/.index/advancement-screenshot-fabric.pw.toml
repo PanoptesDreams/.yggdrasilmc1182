@@ -1,0 +1,14 @@
+name = "Advancement Screenshot (Legacy Fabric)"
+filename = "advancementscreenshot-fabric_1.18.x-3.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3a21babd76728ce0d997a881ea4a8c846d622348"
+
+[update]
+[update.curseforge]
+file-id = 3568975
+project-id = 550889

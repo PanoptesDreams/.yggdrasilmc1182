@@ -1,0 +1,14 @@
+name = "Rings of Ascension"
+filename = "RingsOfAscension-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IxxES3Kk/versions/CaOeT4sQ/RingsOfAscension-1.18.2-1.0.1.jar"
+hash-format = "sha512"
+hash = "8a13b2ff5192ff017dfbca2a1d10e1703ac270d2dd9dbfc8609e6f1c72c3f3b31d77975fc00e8c15790fba25c9b8cfe029510aacbf81f3ecfae9281f6ad2c022"
+
+[update]
+[update.modrinth]
+mod-id = "IxxES3Kk"
+version = "CaOeT4sQ"

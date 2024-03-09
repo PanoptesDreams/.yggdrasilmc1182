@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "yggdrasilmc:chitin_skin",
+        "yggdrasilmc:way_of_sword"
+    ],
+    "icon": "minecraft:bone",
+    "order": 1,
+    "impact": 3,
+    "name": "Hive",
+    "description": "One of the most ancient species in the universe. The Hive have watched many stars go out and have been responsible for any more."
+
+}

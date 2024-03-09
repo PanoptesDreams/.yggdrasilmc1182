@@ -1,0 +1,11 @@
+{
+  "text.mod_id.name": "Campfires Cook Mobs",
+  "text.autoconfig.camp_fires_cook_mobs.title": "Конфігурація Campfires Cook Mobs",
+  "text.autoconfig.camp_fires_cook_mobs.option.standard_campfires_burn_items": "Стандартні багаття спалюють кинуті на них предмети",
+  "text.autoconfig.camp_fires_cook_mobs.option.soul_campfires_burn_items": "Багаття душ спалюють кинуті на них предмети",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_standard_campfires": "Льодохід захищає від звичайних багать",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_soul_campfires": "Льодохід захищає від багать душ",
+  "text.autoconfig.camp_fires_cook_mobs.option.fetch_translation_updates": "Увімкнути оновлення перекладу з Crowdin",
+  "text.mod_id.no_config_screen.title": "Конфігурація ${name} недоступна",
+  "text.mod_id.no_config_screen.message": "§cУстановіть Cloth Config, щоб увімкнути конфігурацію."
+}

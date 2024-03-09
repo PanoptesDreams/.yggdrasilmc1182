@@ -1,0 +1,14 @@
+name = "Window Title Changer"
+filename = "window_title_changer-2.1.1-1.18.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "eac6a643a92395d674ad0fd9a21fc03600662c80"
+
+[update]
+[update.curseforge]
+file-id = 3542385
+project-id = 359527

@@ -1,0 +1,14 @@
+name = "Biome Particle Weather"
+filename = "BiomeParticleWeather-2.4.7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "853f13428ce9bedd544c43b17058565d1e88ae3a"
+
+[update]
+[update.curseforge]
+file-id = 3809612
+project-id = 575109

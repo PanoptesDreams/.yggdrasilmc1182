@@ -1,0 +1,11 @@
+{
+  "text.mod_id.name": "Campfires Cook Mobs",
+  "text.autoconfig.camp_fires_cook_mobs.title": "Configuración de las hogueras",
+  "text.autoconfig.camp_fires_cook_mobs.option.standard_campfires_burn_items": "Las hogueras estándar queman objetos lanzados sobre ellas",
+  "text.autoconfig.camp_fires_cook_mobs.option.soul_campfires_burn_items": "Las hogueras de alma queman objetos arrojados sobre ellas",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_standard_campfires": "Paso helado te protege del fuego estándar",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_soul_campfires": "Paso helado te protege del fuego de almas",
+  "text.autoconfig.camp_fires_cook_mobs.option.fetch_translation_updates": "Activar actualizaciones de traducción de Crowdin",
+  "text.mod_id.no_config_screen.title": "${name} Configuration Unavailable",
+  "text.mod_id.no_config_screen.message": "§cInstall Cloth Config to enable configuration."
+}

@@ -1,0 +1,14 @@
+name = "Sound Categories"
+filename = "soundcategories-1.2.2+1.18.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ec5eb086332d497fd7665281111d71804334b0b8"
+
+[update]
+[update.curseforge]
+file-id = 3813151
+project-id = 557374

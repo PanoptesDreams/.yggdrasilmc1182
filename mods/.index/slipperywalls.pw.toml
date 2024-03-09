@@ -1,0 +1,14 @@
+name = "SlipperyWalls"
+filename = "slipperywalls-1.0.0+1.17.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "64fc0e8f372397a2eb7d24cee64439745ec33ce5"
+
+[update]
+[update.curseforge]
+file-id = 3390852
+project-id = 421393

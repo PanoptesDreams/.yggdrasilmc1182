@@ -1,0 +1,14 @@
+name = "Interactic"
+filename = "interactic-0.1.10+1.18.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ErpAAAaf/versions/0.1.10%2B1.18/interactic-0.1.10%2B1.18.jar"
+hash-format = "sha512"
+hash = "7d421e5103edcb83cb3712a090783a190efbc5e14d5e3b54ea573483938e07fc8d4826fb76fc20f596d8f5bede21b9e90424fe02307c57aa10830588a55d8a3c"
+
+[update]
+[update.modrinth]
+mod-id = "ErpAAAaf"
+version = "KaaebHRh"

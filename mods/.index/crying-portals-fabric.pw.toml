@@ -1,0 +1,14 @@
+name = "Crying Portals (Legacy Fabric)"
+filename = "cryingportals-fabric_1.18.x-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c14621e015abcdc9b9c37decc2278829b5684d75"
+
+[update]
+[update.curseforge]
+file-id = 3568951
+project-id = 547861

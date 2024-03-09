@@ -1,0 +1,14 @@
+name = "Winter Coats"
+filename = "WinterCoats+v1.0+MC1.18.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2da29f8a5d88d81d2e89af3fb9cb3049ddead617"
+
+[update]
+[update.curseforge]
+file-id = 3575163
+project-id = 558941

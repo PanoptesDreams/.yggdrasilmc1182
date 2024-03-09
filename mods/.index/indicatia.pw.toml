@@ -1,0 +1,14 @@
+name = "Indicatia"
+filename = "indicatia-mc1.18.2-v6.2.0-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Grr1HrUE/versions/6.2.0/indicatia-mc1.18.2-v6.2.0-fabric.jar"
+hash-format = "sha512"
+hash = "199cc4c36b12bbc221e10cc5fc26050bd7695294a3636be2458aa79bb6dd7f0ebab725c49c9a4de1fc1bac178c9d03217f1d1dbf8b99802565915dcbcbe7efd0"
+
+[update]
+[update.modrinth]
+mod-id = "Grr1HrUE"
+version = "3909Zb6B"

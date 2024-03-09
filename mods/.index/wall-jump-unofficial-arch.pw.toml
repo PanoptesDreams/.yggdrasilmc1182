@@ -1,0 +1,14 @@
+name = "Wall-Jump! UNOFFICIAL"
+filename = "walljump-unofficial-1.6.3-all+1.18.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5ff93a9af13d5a7939cea354edffa39f59afe350"
+
+[update]
+[update.curseforge]
+file-id = 4160228
+project-id = 622370

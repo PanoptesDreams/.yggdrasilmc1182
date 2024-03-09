@@ -1,0 +1,14 @@
+name = "Armor Stand Swap"
+filename = "armor-stand-swap-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "19c7ada518d45995d38d94ea8b60000a264b497c"
+
+[update]
+[update.curseforge]
+file-id = 3801850
+project-id = 622508

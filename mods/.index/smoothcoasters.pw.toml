@@ -1,0 +1,14 @@
+name = "SmoothCoasters"
+filename = "SmoothCoasters-1.18.2-v1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XqNNpHvS/versions/1.18.2-v1/SmoothCoasters-1.18.2-v1.jar"
+hash-format = "sha512"
+hash = "b60ef753f58b4dab5ce1d2630ca7182e58aa00710655a63f7a140d63b516aa0c62fb36ed2a20e3789b22afdd3800ba1bdbf6c40972fcb9ccab3beb7a0cbe1ccf"
+
+[update]
+[update.modrinth]
+mod-id = "XqNNpHvS"
+version = "TKGO8cl7"

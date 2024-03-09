@@ -1,0 +1,18 @@
+.minecraft/.fabric
+.minecraft/Distant_Horizons_server_data/Local Server, IP 10.0.0.200
+.minecraft/Distant_Horizons_server_data/Minecraft Server, IP localhost
+.minecraft/ModTranslations
+.minecraft/coremods
+.minecraft/crash-reports
+.minecraft/dashloader-cache
+.minecraft/defaultconfigs
+.minecraft/logs
+.minecraft/paintings
+.minecraft/patchouli_books
+.minecraft/polymer-resourcepack.zip
+.minecraft/realms_persistence.json
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/servers.dat_old
+.minecraft/usercache.json

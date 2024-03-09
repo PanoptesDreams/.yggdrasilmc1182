@@ -1,0 +1,11 @@
+{
+  "text.mod_id.name": "Campfires Cook Mobs",
+  "text.autoconfig.camp_fires_cook_mobs.title": "Campfires Cook Mobs Configuration",
+  "text.autoconfig.camp_fires_cook_mobs.option.standard_campfires_burn_items": "Standard campfires burn items thrown on them",
+  "text.autoconfig.camp_fires_cook_mobs.option.soul_campfires_burn_items": "Soul campfires burn items thrown on them",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_standard_campfires": "Frostwalker protects from standard camp fires",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_soul_campfires": "Frostwalker protects from soul camp fires",
+  "text.autoconfig.camp_fires_cook_mobs.option.fetch_translation_updates": "Enable Crowdin translation updates",
+  "text.mod_id.no_config_screen.title": "${name} Configuration Unavailable",
+  "text.mod_id.no_config_screen.message": "§cInstall Cloth Config to enable configuration."
+}

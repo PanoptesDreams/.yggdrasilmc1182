@@ -1,0 +1,14 @@
+name = "Golden Netherite"
+filename = "gilded-1.18-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5c4c7986498d9b4280b3f8c0b0e55f8ca1290cea"
+
+[update]
+[update.curseforge]
+file-id = 3817073
+project-id = 537878

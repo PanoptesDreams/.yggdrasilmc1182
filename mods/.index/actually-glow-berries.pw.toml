@@ -1,0 +1,14 @@
+name = "Actually Glow Berries"
+filename = "agb-1.18-1.0.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "299a05fcf724bb61d152fdaa7a0d3a940e596a81"
+
+[update]
+[update.curseforge]
+file-id = 3554232
+project-id = 547266

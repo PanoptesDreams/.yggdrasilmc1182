@@ -1,0 +1,1298 @@
+{
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "consistency_plus:recipes/blackstone": {
+    "criteria": {
+      "has_block": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "taiga": "2023-10-02 14:27:56 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/sweet_crepes": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_block": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "consistency_plus:recipes/netherrack": {
+    "criteria": {
+      "has_block": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/nether_milestone": {
+    "criteria": {
+      "gilty": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "boneequipment:recipes/misc/bone": {
+    "criteria": {
+      "has_ingredient": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "exlineawnings:recipes/misc/oak_awning": {
+    "criteria": {
+      "has_plank": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/welcome_to_warp_zone": {
+    "criteria": {
+      "warped_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "nether_wastes": "2023-10-02 14:27:24 +1300",
+      "taiga": "2023-10-02 14:27:56 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "quirky_quartz": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "gilded_blackstone": "2023-10-02 14:27:21 +1300",
+      "polished_blackstone_bricks": "2023-10-02 14:27:20 +1300",
+      "warped_planks": "2023-10-02 14:27:20 +1300",
+      "cracked_polished_blackstone_bricks": "2023-10-02 14:27:20 +1300",
+      "coal_block": "2023-10-02 14:27:21 +1300",
+      "torch": "2023-10-02 14:27:21 +1300",
+      "lantern": "2023-10-02 14:27:21 +1300",
+      "spruce_sapling": "2023-10-02 14:27:20 +1300",
+      "cobblestone": "2023-10-02 14:27:20 +1300",
+      "obsidian": "2023-10-02 14:27:21 +1300",
+      "netherrack": "2023-10-02 14:27:21 +1300"
+    },
+    "done": false
+  },
+  "blazeandcave:building/blackstonehenge": {
+    "criteria": {
+      "gilded_blackstone": "2023-10-02 14:27:21 +1300",
+      "cracked_polished_blackstone_bricks": "2023-10-02 14:27:20 +1300",
+      "polished_blackstone_bricks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/croque_monsieur": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "exlineawnings:recipes/misc/jungle_awning": {
+    "criteria": {
+      "has_plank": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/baked_crepes": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/sausage": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_farm": {
+    "criteria": {
+      "stone_hoe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/blackstone_bricks": {
+    "criteria": {
+      "has_copper_block": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "exlineawnings:recipes/misc/acacia_awning": {
+    "criteria": {
+      "has_plank": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/hashed_brown": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_mine": {
+    "criteria": {
+      "wooden_pickaxe": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "croptopia:recipes/croptopia.croptopia/croque_madame": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "stone_age": "2023-10-02 14:27:24 +1300",
+      "time_to_mine": "2023-10-02 14:27:24 +1300",
+      "ice_bucket_challenge": "2023-10-02 14:27:24 +1300",
+      "time_to_chop": "2023-10-02 14:27:24 +1300",
+      "acquire_hardware": "2023-10-02 14:27:24 +1300",
+      "farming_root": "2023-10-02 14:27:24 +1300",
+      "meet_the_flintstones": "2023-10-02 14:27:24 +1300",
+      "mining_root": "2023-10-02 14:27:24 +1300",
+      "fireworks_display": "2023-10-02 14:27:24 +1300",
+      "quirky_quartz": "2023-10-02 14:27:24 +1300",
+      "time_to_farm": "2023-10-02 14:27:24 +1300",
+      "heart_of_darkness": "2023-10-02 14:27:32 +1300",
+      "living_like_kings": "2023-10-02 14:27:24 +1300",
+      "gilty": "2023-10-02 14:27:24 +1300",
+      "gold_rush": "2023-10-02 14:27:24 +1300",
+      "getting_an_upgrade": "2023-10-02 14:27:24 +1300",
+      "bacap_root": "2023-10-02 14:27:32 +1300"
+    },
+    "done": false
+  },
+  "croptopia:recipes/croptopia.croptopia/frying_pan": {
+    "criteria": {
+      "has_iron": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "consistency_plus:recipes/gold_nugget": {
+    "criteria": {
+      "has_block": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "exlineawnings:recipes/misc/dark_oak_awning": {
+    "criteria": {
+      "has_plank": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "exlineawnings:recipes/misc/warped_awning": {
+    "criteria": {
+      "has_plank": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/quiche": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped_planks": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/farming_milestone": {
+    "criteria": {
+      "root": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/quirky_quartz": {
+    "criteria": {
+      "quartz": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/living_like_kings": {
+    "criteria": {
+      "golden_helmet": "2023-10-02 14:27:20 +1300",
+      "golden_boots": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "exlineawnings:recipes/misc/birch_awning": {
+    "criteria": {
+      "has_plank": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "stick": "2023-10-02 14:27:20 +1300",
+      "golden_helmet": "2023-10-02 14:27:20 +1300",
+      "stone_axe": "2023-10-02 14:27:21 +1300",
+      "stone_pickaxe": "2023-10-02 14:27:21 +1300",
+      "gold_ingot": "2023-10-02 14:27:20 +1300",
+      "flint": "2023-10-02 14:27:21 +1300",
+      "golden_boots": "2023-10-02 14:27:20 +1300",
+      "gold_nugget": "2023-10-02 14:27:20 +1300",
+      "wooden_pickaxe": "2023-10-02 14:27:20 +1300",
+      "bone": "2023-10-02 14:27:21 +1300",
+      "firework_rocket": "2023-10-02 14:27:21 +1300",
+      "flint_and_steel": "2023-10-02 14:27:21 +1300",
+      "iron_ingot": "2023-10-02 14:27:21 +1300",
+      "rotten_flesh": "2023-10-02 14:27:21 +1300",
+      "stone_hoe": "2023-10-02 14:27:21 +1300",
+      "arrow": "2023-10-02 14:27:21 +1300",
+      "chicken": "2023-10-02 14:27:21 +1300",
+      "bow": "2023-10-02 14:27:21 +1300",
+      "quartz": "2023-10-02 14:27:20 +1300"
+    },
+    "done": false
+  },
+  "croptopia:recipes/croptopia.croptopia/knife": {
+    "criteria": {
+      "has_iron": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "consistency_plus:recipes/obsidian": {
+    "criteria": {
+      "has_block": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:building/rock_collection": {
+    "criteria": {
+      "cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2023-10-02 14:27:24 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/gold_rush": {
+    "criteria": {
+      "gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/polished_blackstone_bricks": {
+    "criteria": {
+      "has_copper_block": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pliers": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/mining_milestone": {
+    "criteria": {
+      "living_like_kings": "2023-10-02 14:27:24 +1300",
+      "stone_age": "2023-10-02 14:27:24 +1300",
+      "gold_rush": "2023-10-02 14:27:24 +1300",
+      "getting_an_upgrade": "2023-10-02 14:27:24 +1300",
+      "meet_the_flintstones": "2023-10-02 14:27:24 +1300",
+      "ice_bucket_challenge": "2023-10-02 14:27:24 +1300",
+      "acquire_hardware": "2023-10-02 14:27:24 +1300",
+      "root": "2023-10-02 14:27:24 +1300",
+      "heart_of_darkness": "2023-10-02 14:27:32 +1300"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/dauphine_potatoes": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/ground_pork": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cinnamon_roll": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/moar_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-10-02 14:27:21 +1300",
+      "stone_axe": "2023-10-02 14:27:21 +1300",
+      "stone_hoe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": false
+  },
+  "consistency_plus:recipes/stone": {
+    "criteria": {
+      "has_block": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/the_big_breakfast": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "exlineawnings:recipes/misc/spruce_awning": {
+    "criteria": {
+      "has_plank": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/root": {
+    "criteria": {
+      "pickaxe": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2023-10-02 14:27:56 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_block": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/fireworks_display": {
+    "criteria": {
+      "firework_rocket": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_block": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/heart_of_darkness": {
+    "criteria": {
+      "enter_cave": "2023-10-02 14:27:24 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/mineral_collection": {
+    "criteria": {
+      "coal_block": "2023-10-02 14:27:21 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/macaron": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2023-10-02 14:27:28 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cooking_pot": {
+    "criteria": {
+      "has_iron": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "croptopia:recipes/croptopia.croptopia/sunny_side_eggs": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/weaponry_milestone": {
+    "criteria": {
+      "fireworks_display": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/stack_all_the_items": {
+    "criteria": {
+      "golden_helmet": "2023-10-02 14:27:20 +1300",
+      "stone_axe": "2023-10-02 14:27:21 +1300",
+      "stone_pickaxe": "2023-10-02 14:27:21 +1300",
+      "golden_boots": "2023-10-02 14:27:20 +1300",
+      "wooden_pickaxe": "2023-10-02 14:27:20 +1300",
+      "flint_and_steel": "2023-10-02 14:27:21 +1300",
+      "stone_hoe": "2023-10-02 14:27:21 +1300",
+      "bow": "2023-10-02 14:27:21 +1300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_the_recipe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_block": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "exlineawnings:recipes/misc/crimson_awning": {
+    "criteria": {
+      "has_plank": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/meet_the_flintstones": {
+    "criteria": {
+      "flint": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "nether_wastes": "2023-10-02 14:27:24 +1300"
+    },
+    "done": false
+  },
+  "blazeandcave:farming/root": {
+    "criteria": {
+      "hoe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/gilty": {
+    "criteria": {
+      "gilded_blackstone": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_chop": {
+    "criteria": {
+      "stone_axe": "2023-10-02 14:27:21 +1300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2023-10-02 14:27:20 +1300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

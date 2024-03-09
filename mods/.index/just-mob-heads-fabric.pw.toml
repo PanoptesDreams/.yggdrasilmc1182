@@ -1,0 +1,14 @@
+name = "Just Mob Heads (Legacy Fabric)"
+filename = "justmobheads-fabric_1.18.x-5.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "cdab1c213bf1fc3ed712a5b34a075cfc6942020b"
+
+[update]
+[update.curseforge]
+file-id = 3678668
+project-id = 529950

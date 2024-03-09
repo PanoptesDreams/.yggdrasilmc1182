@@ -1,0 +1,14 @@
+name = "HangMan"
+filename = "LeftHanging-fabric-1.18.2-3.2.0.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ed7229e709a158fccea3efdec3ba72231ae9b927"
+
+[update]
+[update.curseforge]
+file-id = 3984905
+project-id = 532595

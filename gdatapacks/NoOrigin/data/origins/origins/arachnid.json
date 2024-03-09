@@ -1,0 +1,10 @@
+{
+	"loading_priority": 1,
+	"powers": [],
+	"icon": {
+		"item": "minecraft:cobweb"
+	},
+	"order": 1,
+	"impact": 1,
+	"unchoosable": true
+}

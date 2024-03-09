@@ -1,0 +1,14 @@
+name = "Coins JE"
+filename = "Coins-Fabric-1.18.2-7.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/b8aQgkOD/versions/qtAjMNqa/Coins-Fabric-1.18.2-7.0.1.jar"
+hash-format = "sha512"
+hash = "c0559d19c05c3b5fc2e613a5e2d2a96e51d2cd63d95ae332d81ef9b9e04c336c4b0ff0a960cdd563a05f606960256e179c5ed685528f4e10217cfeb8363db362"
+
+[update]
+[update.modrinth]
+mod-id = "b8aQgkOD"
+version = "qtAjMNqa"

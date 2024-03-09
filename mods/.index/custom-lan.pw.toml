@@ -1,0 +1,14 @@
+name = "Custom LAN"
+filename = "custom-lan-1.18.2-v2.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/1.18.2-v2.0.1/custom-lan-1.18.2-v2.0.1.jar"
+hash-format = "sha512"
+hash = "5810808ce6817a1235fec027e169186bbecd292bc5062c5e0255b6daaeef4e01433c6ec526c5f2ca19414b201e23ca0a1fd2c79d9e7dd17056ef4243739a22fd"
+
+[update]
+[update.modrinth]
+mod-id = "OCvCFPNR"
+version = "d1GlSCTc"

@@ -1,0 +1,14 @@
+name = "Achievement Plates"
+filename = "achievementplates-1.18.2-1.6.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5bd2dd1bf6d522c5903ea2c7613c0498fd328155"
+
+[update]
+[update.curseforge]
+file-id = 3722700
+project-id = 522248

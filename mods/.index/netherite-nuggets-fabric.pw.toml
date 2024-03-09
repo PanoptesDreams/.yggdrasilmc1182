@@ -1,0 +1,14 @@
+name = "Netherite Nuggets [Fabric]"
+filename = "netherite-nuggets-1.4.1+1.18.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2c221fba01c2be2fc1558381af17fbc7c4af344e"
+
+[update]
+[update.curseforge]
+file-id = 3773046
+project-id = 428453

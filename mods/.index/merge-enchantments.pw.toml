@@ -1,0 +1,14 @@
+name = "Merge Enchantments"
+filename = "merenc-fabric-1.18.x-v3.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "beb39573ad95df3d55e12cf083d532c8be676833"
+
+[update]
+[update.curseforge]
+file-id = 4654213
+project-id = 627101

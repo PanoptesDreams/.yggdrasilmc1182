@@ -1,0 +1,1357 @@
+[18:58:10] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.14.21
+[18:58:10] [ForkJoinPool-1-worker-1/WARN]: Mod boneequipment uses the version fabric-1.18.2-v1.0.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18:58:10] [ForkJoinPool-1-worker-1/WARN]: Mod lod uses the version 1.6.5a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '5a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18:58:10] [ForkJoinPool-1-worker-2/WARN]: Mod globaldataandresourcepacks uses the version 1.12.4_fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '4_fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18:58:11] [ForkJoinPool-1-worker-3/WARN]: The mod "cotton-config" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[18:58:11] [ForkJoinPool-1-worker-1/WARN]: The mod "cotton-logging" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[18:58:11] [main/WARN]: Warnings were found!
+ - Mod 'Cardinal Components API (world saves)' (cardinal-components-level) 4.1.4 recommends any version of cardinal-components-world, which is missing!
+	 - You should install any version of cardinal-components-world for the optimal experience.
+ - Mod 'Debugify' (debugify) 1.11.0 conflicts with any version of mod 'FastOpenResourcePacks' (fastopenlinksandfolders), which is present with the following versions: 1.1.1!
+	 - While this won't prevent you from starting the game, the developer(s) of mod 'Debugify' (debugify) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
+[18:58:11] [main/INFO]: Loading 347 mods:
+	- achievement_plates 1.6.1
+	- advancedcompass 1.2.12
+	- advancementplaques 1.4.6
+	- allay 4.0.0
+	- amecs 1.3.9+mc.1.18.2
+	   \-- amecsapi 1.4.0+mc1.18-pre1
+	- appleskin 2.5.1+mc1.18.2
+	- architectury 4.11.93
+	- armor-stand-swap 1.0.2
+	- armorhotswap 1.7
+	- armorsoundtweak 5.1.1
+	   |-- com_electronwill_night-config_core 3.6.5
+	   \-- com_electronwill_night-config_toml 3.6.5
+	- auto_third_person 2.1
+	- auudio 1.0.3
+	- axesareweapons 1.7.1
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.9
+	- axolotlitemfix 1.1.3
+	- badpackets 0.1.3
+	- balm-fabric 3.2.6
+	- bebooks 1.3.1
+	- bedbenefits 6.0.3
+	- bedrockwaters 1.6.2+1.18.2
+	- beehivetooltips 1.4.2
+	- better-resource-pack-sorting 1.1.1
+	- bettercombat 1.6.2+1.18.2
+	- betterenchantmentboosting 1.2.0
+	- betterf3 3.0.0
+	- betterthanmending 1.3.0
+	- betterthirdperson 1.8.1
+	- boatcontainer 1.2.3
+	- boneequipment fabric-1.18.2-v1.0.1
+	- bookshelf 13.3.56
+	- boxtrot 1.3
+	- brb 1.5.6
+	- camp_fires_cook_mobs 1.2.6
+	   \-- crowdin-translate 1.4+1.18.2
+	- chat_heads 0.6.0
+	- chipped 2.0.1
+	- cleanview 1.18.2-v1-fabric
+	- clear-skies 2.0.92
+	- cloth-config 6.5.102
+	   \-- cloth-basic-math 0.6.1
+	- clumps 8.0.0+17
+	- coinsje 7.0.1
+	- collective-fabric 4.26
+	   \-- fiber 0.23.0-2
+	- connected-doors 1.1+1.18
+	- consistency_plus 0.5.0+1.18.2
+	   \-- stonecutter_recipe_tags 3.0.1+1.18.bc850d5.fabric
+	- continuity 2.0.2+1.18.2
+	- copperlamp 2.1.0
+	   \-- team_reborn_energy 2.1.0
+	- craftingtweaks 14.0.7
+	- crawl 0.10.6
+	   \-- mm 2.3
+	- creativecore 2.6.12
+	- creeperoverhaul 1.3.1
+	- croptopia 2.1.2
+	   |-- com_typesafe_config 1.4.1
+	   |-- io_leangen_geantyref_geantyref 1.3.11
+	   |-- org_spongepowered_configurate-core 4.1.2
+	   \-- org_spongepowered_configurate-hocon 4.1.2
+	- cryingportals-fabric 1.2
+	- ctm 1.0.0+1.18
+	- cull-less-leaves 1.0.1
+	- cursormod 1.3.1
+	- customfov 1.4.1-1.18.1
+	- customlan 1.18.2-v2.0.1
+	- darkness 2.0.91
+	- deathknell 3.0.3
+	- debugify 1.11.0
+	- detailab 2.6.2+1.18-fabric
+	- draggable-resource-packs 2.0.0
+	- dragonloot 1.1.0
+	- drippyloadingscreen 2.2.2
+	- duckling 1.0.7
+	- dynamiccrosshair 5.0+1.18.2
+	   \-- fabric-key-binding-api-v1 1.0.12+54e5b2ec60
+	- dynamiccrosshaircompat 1.4+1.18.2
+	   \-- fabric-key-binding-api-v1 1.0.12+54e5b2ec60
+	- dynamicfps 2.1.0
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- easymagic 3.3.0
+	   |-- cardinal-components-base 4.1.4
+	   \-- cardinal-components-entity 4.1.4
+	- ecologics 1.7.11
+	- effective 1.2.1
+	- elytra-flight-hud 1.1.1
+	- elytratrinket 3.0.0-1.18.1
+	- emotecraft 2.2.7-b.build.50
+	   \-- bendy-lib 2.1.3-test2
+	- enchdesc 10.0.12
+	- enhanced_attack_indicator 1.0.3+1.18
+	- enhancedblockentities 0.7.1+1.18.2
+	   \-- advanced_runtime_resource_pack 0.5.5
+	- enhancedvisuals 1.5.5
+	- entityculling 1.6.1-mc1.18.2
+	- equipmentcompare 1.2.12
+	- exlineawnings 1.0.3
+	- fabric-api 0.76.0+1.18.2
+	   |-- fabric-api-base 0.4.5+64b7c69360
+	   |-- fabric-api-lookup-api-v1 1.6.3+2373a54560
+	   |-- fabric-biome-api-v1 8.0.7+e83becad60
+	   |-- fabric-block-api-v1 1.0.0+ee3621fc60
+	   |-- fabric-blockrenderlayer-v1 1.1.13+3ac43d9560
+	   |-- fabric-command-api-v1 1.1.10+d7c144a860
+	   |-- fabric-commands-v0 0.2.9+b4f4f6cd60
+	   |-- fabric-containers-v0 0.1.24+d7c144a860
+	   |-- fabric-content-registries-v0 3.1.3+c85f2e3860
+	   |-- fabric-convention-tags-v1 1.1.0+43ce63a460
+	   |-- fabric-crash-report-info-v1 0.2.1+ee261a3e60
+	   |-- fabric-data-generation-api-v1 3.1.0+6c70b68e60
+	   |-- fabric-dimensions-v1 2.1.21+489d6f8260
+	   |-- fabric-entity-events-v1 1.4.9+d7c144a860
+	   |-- fabric-events-interaction-v0 0.4.20+d7c144a860
+	   |-- fabric-events-lifecycle-v0 0.2.22+d7c144a860
+	   |-- fabric-game-rule-api-v1 1.0.13+d7c144a860
+	   |-- fabric-item-api-v1 1.6.2+8165403660
+	   |-- fabric-item-groups-v0 0.3.16+91896a4960
+	   |-- fabric-keybindings-v0 0.2.10+b4f4f6cd60
+	   |-- fabric-lifecycle-events-v1 2.1.1+cc71601c60
+	   |-- fabric-loot-api-v2 1.1.2+1997ad1260
+	   |-- fabric-loot-tables-v1 1.1.4+e747827960
+	   |-- fabric-mining-level-api-v1 2.1.6+cc71601c60
+	   |-- fabric-models-v0 0.3.7+d7c144a860
+	   |-- fabric-networking-api-v1 1.0.24+2d30af4b60
+	   |-- fabric-networking-v0 0.3.11+b4f4f6cd60
+	   |-- fabric-object-builder-api-v1 2.1.5+032c981d60
+	   |-- fabric-particles-v1 0.2.13+526dc1ac60
+	   |-- fabric-registry-sync-v0 0.9.12+bb2e047760
+	   |-- fabric-renderer-api-v1 0.5.0+bf48649860
+	   |-- fabric-renderer-indigo 0.6.1+03e2b68760
+	   |-- fabric-renderer-registries-v1 3.2.12+b4f4f6cd60
+	   |-- fabric-rendering-data-attachment-v1 0.3.9+ee3621fc60
+	   |-- fabric-rendering-fluids-v1 2.0.3+54e5b2ec60
+	   |-- fabric-rendering-v0 1.1.14+b4f4f6cd60
+	   |-- fabric-rendering-v1 1.10.8+54e5b2ec60
+	   |-- fabric-resource-conditions-api-v1 2.0.3+91b7aa6660
+	   |-- fabric-resource-loader-v0 0.5.3+047a5ecb60
+	   |-- fabric-screen-api-v1 1.0.11+d882b91560
+	   |-- fabric-screen-handler-api-v1 1.2.3+1f6558e860
+	   |-- fabric-textures-v0 1.0.13+3ac43d9560
+	   |-- fabric-transfer-api-v1 1.6.4+f4563ac860
+	   \-- fabric-transitive-access-wideners-v1 1.1.0+e747827960
+	- fabric-language-kotlin 1.10.10+kotlin.1.9.10
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.9.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.9.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.9.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.9.10
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.22.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.7.3
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.7.3
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.6.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.6.0
+	- fabricloader 0.14.21
+	- fabulousclouds 0.3.0
+	- fallingleaves 1.11.1+1.18.2
+	- fallthroughslime-fabric 1.4
+	- fancymenu 2.14.9
+	- fastertools 1.2.1
+	- fastopenlinksandfolders 1.1.1
+	- ferritecore 4.2.1
+	- fireplacelib 7.0.2+1.18.2
+	   \-- annotateddi 4.0.1+1.18.2
+	        |-- aopalliance_aopalliance 1.0
+	        |-- com_google_inject_guice 5.1.0
+	        \-- javax_inject_javax_inject 1
+	- firstperson 2.2.3
+	- forgeconfigapiport 3.2.4
+	- friendlyfire 11.0.4
+	- friendsandfoes 1.4.8
+	- geckolib3 3.0.80
+	   \-- com_eliotlash_mclib_mclib 20
+	- gilded 1.0.1
+	- globaldataandresourcepacks 1.12.4_fabric
+	- glow 1.0.3
+	- graveyard 1.9
+	   \-- omega-config 1.2.2-1.18.1
+	- graveyard_biomes 1.1
+	   \-- omega-config 1.2.2-1.18.1
+	- guardvillagers 1.18.2-1.1.0
+	- hangman 3.2.0.3
+	- healthoverlay 6.3.4
+	   \-- fiber 0.23.0-2
+	- here-be-no-dragons 1.0.0
+	- highlighter 1.1.2
+	- hoetweaks-fabric 1.4
+	- holograms 1.3.1+1.18.2
+	   |-- fabric-permissions-api-v0 0.1-SNAPSHOT
+	   |-- hologram-api 0.2.1+1.18-pre5
+	   |-- placeholder-api 1.1.3+1.17.1
+	   \-- server_translations_api 1.4.9+1.18.2-rc1
+	        \-- packet_tweaker 0.2.0+1.18-pre1
+	- homing_ender_eye 1.1.1
+	- icarus 1.11
+	- iceberg 1.0.38
+	- illuminations 1.10.4
+	- immersive_weathering 1.18.2-1.18.2-3.0.3
+	- impactfulweather 2.4.7
+	- incendium 5.0.8
+	- indicatia 6.2.0
+	- indium 1.0.7+mc1.18.2
+	- infusion_table 1.1.0
+	- interactic 0.1.10+1.18
+	- inventoryprofilesnext 1.10.7
+	- invmove 0.8.4
+	- iris 1.6.9
+	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.11.1
+	- ironchests 2.0.5
+	- itemborders 1.1.5
+	- itemflexer 1.2.4
+	   |-- microconfig 2.2.1
+	   \-- placeholder-api 1.1.3+1.17.1
+	- jade 5.100.0
+	- java 17
+	- jello 3.2.5+1.18.2
+	   |-- betterbeds 1.2.0
+	   \-- org_joml_joml 1.10.2
+	- justmobheads-fabric 5.4
+	- keybind_fix 1.0.0
+	- kleeslabs 11.1.1
+	- konkrete 1.6.1
+	- lambdabettergrass 1.2.4+1.18
+	   \-- spruceui 3.3.3+1.18
+	- lazy-language-loader 0.3.0
+	- lazydfu 0.1.2
+	- legendarytooltips 1.3.3
+	- lenientstacksize 1.3.0
+	- libipn 4.0.0
+	- libmultipart_deps_container 0.7.2
+	   |-- libblockattributes_core 0.10.2
+	   |-- libmultipart 0.7.2
+	   \-- libnetworkstack 0.6.0
+	- lithium 0.10.3
+	- lod 1.6.5a
+	- lucys_sloths 1.0-SNAPSHOT
+	- magicalforest 2.0.3
+	- mavapi 1.0.1
+	- mavm 1.2.0
+	- mcwbridges 2.1.0
+	- mcwroofs 2.2.4
+	- memoryleakfix 1.1.2
+	- merchantmarkers 1.2.2
+	- merenc 3.2
+	- minecarttweaks 1.5
+	- minecraft 1.18.2
+	- modernfix 5.7.4+mc1.18.2
+	   |-- com_github_llamalad7_mixinextras 0.2.0-beta.9
+	   \-- fabric-resource-loader-v0 0.5.3+047a5ecb60
+	- modmenu 3.2.5
+	   \-- fabric-key-binding-api-v1 1.0.12+54e5b2ec60
+	- netherite_nugget 1.4.1
+	- netherportalspread-fabric 5.7
+	- notenoughanimations 1.6.0
+	- online_detector 1.18.2-2.1.0
+	- onsoulfire 1.18-3
+	   |-- cardinal-components-base 4.1.4
+	   \-- cardinal-components-entity 4.1.4
+	- origins 1.4.1
+	   \-- apoli 2.3.3
+	        |-- additionalentityattributes 1.0.0+1.18.2
+	        |-- calio 1.5.1
+	        |-- cardinal-components-base 4.1.4
+	        \-- cardinal-components-entity 4.1.4
+	- oscimate_soulflame 1.0.0
+	- owo 0.7.2+1.18
+	- paginatedadvancements 1.1.0
+	- paintings 9.1.2.1
+	- passiveendermen-fabric 2.3
+	- patchouli 1.18.2-71.1-FABRIC
+	   \-- fiber 0.23.0-2
+	- pehkui 3.7.8+1.14.4-1.20.1
+	   \-- kanos_config 0.4.1+1.14.4-1.19.4
+	- physicsmod 2.11.11
+	- player-animator 1.0.2+1.18
+	- playerabilitylib 1.5.1
+	- powershot 1.4.0-1.18.2-fabric
+	- presencefootsteps 1.5.1
+	   \-- kirin 1.10.0
+	- prism 1.0.3
+	- puzzle 1.4.1-1.18
+	   |-- midnightlib 0.4.4
+	   |-- puzzle-base 1.4.1-1.18
+	   |-- puzzle-gui 1.4.1-1.18
+	   |-- puzzle-models 1.4.1-1.18
+	   \-- puzzle-splashscreen 1.4.1-1.18
+	- puzzleslib 3.3.5
+	   |-- cardinal-components-base 4.1.4
+	   \-- cardinal-components-entity 4.1.4
+	- quickshulker 1.3.9-1.18
+	   |-- kyrptconfig 1.4.6-1.18
+	   |    \-- blue_endless_jankson 1.2.1
+	   \-- shulkerutils 1.0.4-1.18
+	- recipecache 0.2.1-1.17.1
+	- ringsofascension 1.0.1
+	- ruined_equipment 2.0.0
+	- saplanting 1.2.4
+	- seamless_loading_screen 1.4.0+1.18.2
+	- shulkerboxtooltip 3.4.1+1.18.2
+	- skinlayers 1.5.2-mc1.18.2
+	- slipperywalls 1.0.0+1.17
+	- smoothcoasters 1.18.2-v1
+	- smoothscrollingeverywhere 3.0.3-unstable
+	- snowyleavesplus 0.1.1
+	- sodium 0.4.1+build.15
+	- sound_physics_remastered 1.18.2-1.0.6
+	- soundcategories 1.2.2+1.18
+	- spyglass-improvements 1.2+mc1.18.2+fabric
+	- stackdeobfuscator 1.4.1+03a1fe4
+	   |-- dev_booky_common_ 1.4.1+03a1fe4
+	   \-- net_fabricmc_mapping-io 0.3.0
+	- starlight 1.0.2+fabric.89b8d9f
+	- stepup 1.18.2-fabric0.47.10-1.1
+	   |-- crowdin-translate 1.4+1.18.2
+	   \-- gbfabrictools 1.3.4+1.18.2
+	- taxfreelevels 1.3.3
+	- telepistons 1.1.3
+	- terrablender 1.2.0.126
+	- tinyskeletons 3.2.1
+	   |-- cardinal-components-base 4.1.4
+	   \-- cardinal-components-entity 4.1.4
+	- torchhit 6.0.1.2
+	- transparent 4.1.0
+	- travelersbackpack 1.18.2-7.1.31
+	   \-- reach-entity-attributes 2.2.0
+	- trinkets 3.3.1
+	- unfixed-seeds 1.0.2
+	- unforgivingvoid 3.1.5+1.18.2
+	- variablespawnerhardness 1.18.2-1.2.2
+	- veinmining 0.0.17-1.18.2
+	- villagernames 4.0.10
+	   |-- cardinal-components-base 4.1.4
+	   \-- cardinal-components-level 4.1.4
+	- visuality 0.4.3
+	   \-- goosik-config 0.2.0
+	- visualworkbench 3.3.0
+	- walljump-fabric 1.6.3
+	- wandering_collector 1.2.1+mc1.18.2
+	   |-- coat 1.0.0-beta.20+mc1.18.2
+	   |-- tweed4_annotated 1.3.1+mc1.18.2
+	   |-- tweed4_base 1.7.1+mc1.18.2
+	   |-- tweed4_data 1.2.1+mc1.18.2
+	   |-- tweed4_data_hjson 1.1.0+mc1.18.2
+	   |-- tweed4_tailor_coat 1.1.3+mc1.18.2
+	   |-- tweed4_tailor_lang_json_descriptions 1.1.0+mc1.18.2
+	   \-- tweed4_tailor_screen 1.1.4+mc1.18.2
+	- waterdripsound 1.18-0.3.0
+	- waveycapes 1.3.2
+	- window_title_changer 2.1.1-1.18
+	   |-- cotton-config 1.0.0-rc.7
+	   |-- cotton-logging 1.0.0-rc.4
+	   \-- jankson 3.0.0+j1.2.0
+	- windowedfullscreen 1.0.0
+	- winterarmor 1.0.0
+	- wolveswitharmor 1.7.1-1.18.2
+	   |-- maybe-data 1.2.1-1.18.2
+	   \-- static-content 1.0.1-1.16.2
+	        \-- staticdata 1.1.2
+	- wooltweaks-fabric 1.5
+	- worldtime 1.18.2-fabric0.47.10-1.3.1
+	   |-- crowdin-translate 1.4+1.18.2
+	   \-- gbfabrictools 1.3.4+1.18.2
+[18:58:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Adam/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[18:58:12] [main/INFO]: Compatibility level set to JAVA_16
+[18:58:12] [main/INFO]: Compatibility level set to JAVA_17
+[18:58:13] [main/WARN]: Reference map 'axolotl-item-fix-refmap.json' for axolotlitemfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:58:14] [main/INFO]: Preloading Debugify
+[18:58:14] [main/INFO]: Done.
+[18:58:14] [main/WARN]: Reference map 'InvMove-mc1.18_fabric-refmap.json' for invmove-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:58:14] [main/INFO]: Loaded configuration file for Lithium: 105 options available, 1 override(s) found
+[18:58:15] [main/INFO]: Loaded configuration file for ModernFix 5.7.4+mc1.18.2: 51 options available, 1 override(s) found
+[18:58:15] [main/WARN]: Option 'mixin.bugfix.item_cache_flag' overriden (by mods [lithium]) to 'false'
+[18:58:15] [main/INFO]: Applying Nashorn fix
+[18:58:15] [main/WARN]: Reference map 'online_detector-refmap.json' for online_detector.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:58:15] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 2 override(s) found
+[18:58:15] [main/WARN]: Reference map 'static-content-refmap.json' for static-content.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:58:15] [main/WARN]: Reference map 'transparent-fabric-refmap.json' for transparent.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:58:15] [main/INFO]: APPLYING MIXIN: de.keksuccino.auudio.mixin.client.MixinSoundBufferLibrary | TO TARGET: net.minecraft.class_4237
+[18:58:15] [main/INFO]: APPLYING MIXIN: de.keksuccino.auudio.mixin.client.MixinSoundEngine | TO TARGET: net.minecraft.class_1140
+[18:58:15] [main/INFO]: APPLYING MIXIN: de.keksuccino.auudio.mixin.client.MixinMinecraft | TO TARGET: net.minecraft.class_310
+[18:58:15] [main/INFO]: APPLYING MIXIN: de.keksuccino.auudio.mixin.client.IMixinChannel | TO TARGET: net.minecraft.class_4224
+[18:58:15] [main/INFO]: APPLYING MIXIN: de.keksuccino.auudio.mixin.client.IMixinChannelHandle | TO TARGET: net.minecraft.class_4235$class_4236
+[18:58:15] [main/INFO]: APPLYING MIXIN: de.keksuccino.auudio.mixin.client.IMixinSoundEngine | TO TARGET: net.minecraft.class_1140
+[18:58:15] [main/INFO]: APPLYING MIXIN: de.keksuccino.auudio.mixin.client.IMixinSoundManager | TO TARGET: net.minecraft.class_1144
+[18:58:16] [main/WARN]: Error loading class: me/crupette/sheepconsistency/client/SheepShearedFeatureRenderer (java.lang.ClassNotFoundException: me/crupette/sheepconsistency/client/SheepShearedFeatureRenderer)
+[18:58:16] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[18:58:17] [main/WARN]: Error loading class: net/minecraft/world/entity/monster/EnderMan$EndermanLeaveBlockGoal (java.lang.ClassNotFoundException: net/minecraft/world/entity/monster/EnderMan$EndermanLeaveBlockGoal)
+[18:58:17] [main/WARN]: @Mixin target net/minecraft/world/entity/monster/EnderMan$EndermanLeaveBlockGoal was not found passiveendermen_fabric.mixins.json:EndermanLeaveBlockGoalMixin from mod passiveendermen-fabric
+[18:58:17] [main/WARN]: Error loading class: net/minecraft/world/entity/monster/EnderMan$EndermanTakeBlockGoal (java.lang.ClassNotFoundException: net/minecraft/world/entity/monster/EnderMan$EndermanTakeBlockGoal)
+[18:58:17] [main/WARN]: @Mixin target net/minecraft/world/entity/monster/EnderMan$EndermanTakeBlockGoal was not found passiveendermen_fabric.mixins.json:EndermanTakeBlockGoalMixin from mod passiveendermen-fabric
+[18:58:17] [main/WARN]: Error loading class: net/optifine/shaders/Shaders (java.lang.ClassNotFoundException: net/optifine/shaders/Shaders)
+[18:58:17] [main/WARN]: Error loading class: net/optifine/shaders/ShadersCompatibility (java.lang.ClassNotFoundException: net/optifine/shaders/ShadersCompatibility)
+[18:58:17] [main/WARN]: Error loading class: net/optifine/shaders/Programs (java.lang.ClassNotFoundException: net/optifine/shaders/Programs)
+[18:58:17] [main/WARN]: Error loading class: net/optifine/util/BlockUtils (java.lang.ClassNotFoundException: net/optifine/util/BlockUtils)
+[18:58:17] [main/WARN]: Error loading class: net/dorianpb/cem/internal/config/CemConfig (java.lang.ClassNotFoundException: net/dorianpb/cem/internal/config/CemConfig)
+[18:58:17] [main/WARN]: @Mixin target net.dorianpb.cem.internal.config.CemConfig was not found puzzle-gui.mixins.json:CemConfigAccessor from mod puzzle-gui
+[18:58:17] [main/WARN]: Force-disabling mixin 'features.gui.fast_loading_screen.MixinLevelLoadingScreen' as rule 'mixin.features.gui.fast_loading_screen' (added by mods [seamless_loading_screen]) disables it and children
+[18:58:17] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[18:58:17] [main/INFO]: [MemoryLeakFix] Will be applying 5 memory leak fixes!
+[18:58:17] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [tagKeyLeak, targetEntityLeak, entityMemoriesLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[18:58:18] [main/INFO]: I used the json to destroy the json
+[18:58:18] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[18:58:20] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[18:58:20] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[18:58:24] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on jello.mixins.json:client.InventoryScreenMixin from mod jello::handler$dnb001$jello$startEventRegistry exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18:58:27] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[18:58:27] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[18:58:27] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[18:58:27] [main/INFO]: Injecting BlockStateBase cache population hook into method_26229 from me.jellysquid.mods.lithium.mixin.block.flatten_states.AbstractBlockStateMixin
+[18:58:27] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[18:58:27] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.chunk.block_counting.AbstractBlockStateMixin
+[18:58:28] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on jello.mixins.json:dye.item.ItemStackMixin from mod jello::handler$dmi000$jello$useDyeItemOnBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18:58:31] [main/WARN]: @Redirect conflict. Skipping immersive_weathering-common.mixins.json:LevelChunkMixin from mod immersive_weathering->@Redirect::warn(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 1000, already redirected by immersive_weathering.mixins.json:LevelChunkMixin from mod immersive_weathering->@Redirect::warn(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 1000
+[18:58:34] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on jello.mixins.json:dye.item.ItemGroupMixin from mod jello::handler$dmg000$jello$testMethod exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18:58:35] [main/INFO]: Vanilla bootstrap took 10289 milliseconds
+[18:58:36] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:58:36] [Render thread/INFO]: Setting user: PanoptesDreams
+[18:58:37] [Render thread/INFO]: Bypassed Mojang DFU
+[18:58:37] [Render thread/INFO]: [STDOUT]: All 6 have been set properly
+[18:58:37] [Render thread/INFO]: [STDOUT]: Registered Mod Items for allay
+[18:58:40] [Render thread/INFO]: Apoli 2.3.3 has initialized. Ready to power up your game!
+[18:58:40] [Render thread/INFO]: Initialized!
+[18:58:40] [Render thread/INFO]: Loaded config file.
+[18:58:40] [Render thread/INFO]: Saved config file.
+[18:58:40] [Render thread/INFO]: [STDOUT]: Nothing to initialize here ...
+[18:58:40] [Render thread/INFO]: [STDOUT]: Seriously why are you wasting your time
+[18:58:41] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[18:58:41] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[18:58:41] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[18:58:41] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[18:58:41] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[18:58:41] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[18:58:41] [Render thread/INFO]: [STDOUT]: Loading Collective (Fabric) version 4.26.
+[18:58:41] [Render thread/INFO]: Consistency+ Main - Beginning initialization process
+[18:58:42] [Render thread/INFO]: Registered mossy_cobblestone_gate as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_stone_brick_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_stone_brick_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_stone_brick_wall as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_stone_brick_gate as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_stone_brick_gate as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_stone_pillar as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_stone_pillar as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_stone_corner_pillar as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_stone_corner_pillar as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_chiseled_stone as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_chiseled_stone as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_blackstone_brick_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_blackstone_brick_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_blackstone_brick_wall as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_blackstone_brick_gate as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_blackstone_bricks as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_blackstone_brick_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_blackstone_brick_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_blackstone_brick_wall as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_blackstone_brick_gate as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_blackstone_pillar as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_blackstone_pillar as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_blackstone_corner_pillar as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_blackstone_corner_pillar as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_chiseled_blackstone as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_chiseled_blackstone as a Block
+[18:58:42] [Render thread/INFO]: Registered mossy_carved_blackstone as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_carved_blackstone as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_nether_brick_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_nether_brick_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_nether_brick_wall as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_nether_brick_fence_gate as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_purpur_bricks as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_purpur_brick_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_purpur_brick_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_purpur_brick_wall as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_purpur_brick_gate as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_deepslate_brick_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_deepslate_brick_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_deepslate_brick_wall as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_deepslate_brick_gate as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_deepslate_tile_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_deepslate_tile_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_deepslate_tile_wall as a Block
+[18:58:42] [Render thread/INFO]: Registered cracked_deepslate_tile_gate as a Block
+[18:58:42] [Render thread/INFO]: Registered dirt_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered dirt_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered dirt_wall as a Block
+[18:58:42] [Render thread/INFO]: Registered grass_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered grass_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered grass_wall as a Block
+[18:58:42] [Render thread/INFO]: Registered mycelium_slab as a Block
+[18:58:42] [Render thread/INFO]: Registered mycelium_stairs as a Block
+[18:58:42] [Render thread/INFO]: Registered mycelium_wall as a Block
+[18:58:42] [Render thread/INFO]: Filling the Ultimate Keyring from CPlus Blocks!
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_deepslate_brick_slab[slab, brick, deepslate, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_blackstone_brick_wall[wall, brick, blackstone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_carved_blackstone[carved, blackstone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_stone_corner_pillar[corner_pillar, stone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_purpur_brick_gate[gate, brick, purpur, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_deepslate_tile_wall[wall, tile, deepslate, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_deepslate_tile_gate[gate, tile, deepslate, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_blackstone_brick_gate[gate, brick, blackstone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_stone_brick_wall[wall, brick, stone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: dirt_slab[slab, dirt]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_purpur_brick_wall[wall, brick, purpur, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_deepslate_brick_stairs[stairs, brick, deepslate, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_stone_pillar[pillar, stone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mycelium_slab[slab, mycelium]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_blackstone_brick_slab[slab, brick, blackstone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_nether_brick_stairs[stairs, brick, nether, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_stone_pillar[pillar, stone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mycelium_wall[wall, mycelium]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: dirt_stairs[stairs, dirt]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_chiseled_blackstone[chiseled, blackstone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_chiseled_blackstone[chiseled, blackstone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_carved_blackstone[carved, blackstone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: grass_stairs[stairs, grass]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_stone_brick_stairs[stairs, brick, stone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_purpur_brick_slab[slab, brick, purpur, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_purpur_bricks[purpur_bricks, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: grass_wall[wall, grass]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_cobblestone_gate[gate, cobblestone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_blackstone_brick_gate[gate, brick, blackstone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_blackstone_corner_pillar[corner_pillar, blackstone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_blackstone_brick_stairs[stairs, brick, blackstone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_blackstone_pillar[pillar, blackstone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_nether_brick_slab[slab, brick, nether, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: grass_slab[slab, grass]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_purpur_brick_stairs[stairs, brick, purpur, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_chiseled_stone[chiseled, stone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mycelium_stairs[stairs, mycelium]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_stone_corner_pillar[corner_pillar, stone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_chiseled_stone[chiseled, stone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_blackstone_brick_stairs[stairs, brick, blackstone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_deepslate_brick_gate[gate, brick, deepslate, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_blackstone_brick_slab[slab, brick, blackstone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_blackstone_bricks[blackstone_bricks, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_deepslate_brick_wall[wall, brick, deepslate, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_nether_brick_fence_gate[gate, brick, nether_fence, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_stone_brick_gate[gate, brick, stone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_deepslate_tile_stairs[stairs, tile, deepslate, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_blackstone_corner_pillar[corner_pillar, blackstone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_stone_brick_slab[slab, brick, stone, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_stone_brick_gate[gate, brick, stone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: mossy_blackstone_brick_wall[wall, brick, blackstone, mossy]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_deepslate_tile_slab[slab, tile, deepslate, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: dirt_wall[wall, dirt]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_nether_brick_wall[wall, brick, nether, cracked]
+[18:58:42] [Render thread/INFO]: CPlus Blocks Key Ring: cracked_blackstone_pillar[pillar, blackstone, cracked]
+[18:58:43] [Render thread/INFO]: Consistency+ Main - Registration Checkpoint 1
+[18:58:43] [Render thread/INFO]: Consistency+ Main - Finished initialization process
+[18:58:43] [Render thread/INFO]: Registering blocks for the Copper Lamp mod
+[18:58:44] [Render thread/INFO]: Successfully Debugify'd your game!
+[18:58:44] [Render thread/INFO]: Proudly fixes 72 bugs!
+[18:58:44] [Render thread/INFO]: [DRIPPY LOADING SCREEN] Force-initializing FancyMenu's animation engine..
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: java.net.ConnectException
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at dev.isxander.debugify.api.updater.UpdateChecker.getLatestVersion(UpdateChecker.java:26)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at dev.isxander.debugify.Debugify.lambda$onInitialize$0(Debugify.java:37)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: Caused by: java.net.ConnectException
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:378)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:128)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:93)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.Exchange.establishExchange(Exchange.java:343)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:475)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:380)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.Exchange.responseAsync(Exchange.java:372)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:408)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:449)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2340)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:439)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:341)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:157)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2673)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:294)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:654)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:552)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	... 10 more
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: Caused by: java.nio.channels.UnresolvedAddressException
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/sun.nio.ch.Net.checkAddress(Net.java:149)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/sun.nio.ch.Net.checkAddress(Net.java:157)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/sun.nio.ch.SocketChannelImpl.checkRemote(SocketChannelImpl.java:816)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:839)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185)
+[18:58:44] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	... 33 more
+[18:58:44] [Render thread/INFO]: Loading client config for easymagic
+[18:58:44] [Thread-2/INFO]: Reloading client config for easymagic
+[18:58:44] [Thread-2/INFO]: Reloading client config for easymagic
+[18:58:44] [Render thread/INFO]: Creating registry manager for mod id easymagic
+[18:58:45] [Render thread/INFO]: [FANCYMENU] Loading v2.14.9 in client-side mode!
+[18:58:45] [Render thread/INFO]: [FANCYMENU] Level registry interactions allowed!
+[18:58:45] [Render thread/INFO]: [Faster-Tools] is initializing.
+[18:58:45] [Render thread/INFO]: [Faster-Tools] has successfully been initialized.
+[18:58:45] [Render thread/INFO]: [Faster-Tools] if you have any issues or questions feel free to join my Discord: https://discord.gg/fvcFxTg6sB
+[18:58:45] [Render thread/INFO]: Loading FirstPerson Mod
+[18:58:45] [Render thread/INFO]: Loaded config file.
+[18:58:45] [Render thread/INFO]: Saved config file.
+[18:58:46] [ForkJoinPool.commonPool-worker-1/INFO]: An update for Friends&Foes is available! You're using 1.4.6 version but the latest version is 1.4.8!
+[18:58:47] [Render thread/INFO]: [STDOUT]: Flex your items!
+[18:58:49] [Render thread/INFO]: [JsonToRegistry]: It seems that the registry filling took  1.741 seconds
+[18:58:49] [Render thread/INFO]: [JsonToRegistry]: Total amount of registered dyes from json are 1833
+[18:58:49] [Render thread/INFO]: [KONKRETE] Successfully initialized!
+[18:58:49] [Render thread/INFO]: [KONKRETE] Server-side libs ready to use!
+[18:58:50] [Render thread/INFO]: Mod initialized
+[18:58:51] [Render thread/INFO]: Definitely not up to no good
+[18:58:51] [Render thread/INFO]: Origins 1.4.1 is initializing. Have fun!
+[18:58:51] [Render thread/INFO]: loading json file and contents for paintings.
+[18:58:51] [Render thread/INFO]: Adding base paintings
+[18:58:51] [Render thread/INFO]: resolving paintings.json ...
+[18:58:51] [Render thread/INFO]: Loaded json painting abstract_blue , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting abstract_rainbow , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting abstract_red , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting abstract_sunset , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting arachnophobe , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting barn_owl , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting big_z , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting blue_bird , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting bluesclues , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting borgia , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting cane , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting cat_black , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting cat_gray , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting cat_orange , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting cat , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting colorful_squares , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting crest , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting danger_zone , 32 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting decorative_gun , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting exit_down , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting exit_up , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting exit_left , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting exit_right , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_bat , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_chicken , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_cow , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_creeper , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_dog , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_enderman , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_pig , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_pigman , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_silverfish , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_skeleton , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_squid , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting face_zombie , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting fishes , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting flowers , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting fruits , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting ghost , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting glowlamp , 32 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting glowstone_hourglass , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting iluvmc , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting link , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting mine_prosperity , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting no_trespassing_for_mobs , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting ocelot , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting penguin , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting pig_on_a_cliff , 32 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting pkmn_blue , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting pkmn_red , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting pkmn_green , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting plains_hut , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting portrait_2 , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting portrait , 32 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting prison , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting prosperity , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting rest , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting skeleton , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting sky , 32 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting skyblock , 32 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting snake , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting snow_landscape , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting subaraki , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting synth_city , 16 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting tapistry_a , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting tapistry_b , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting tapistry_purple , 16 x 32
+[18:58:51] [Render thread/INFO]: Loaded json painting torched , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting waterfall , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting whale , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting wheat_field , 32 x 16
+[18:58:51] [Render thread/INFO]: Loaded json painting wolf_in_wheat , 32 x 16
+[18:58:51] [Render thread/INFO]: Reading out ResourcePacks to find painting related json files
+[18:58:51] [Render thread/INFO]: Reading `.backgrounds`
+[18:58:51] [Render thread/WARN]: ************************************
+[18:58:51] [Render thread/ERROR]: Invalid ResourcePack  .backgrounds
+[18:58:51] [Render thread/ERROR]: Provider "jar" not found
+[18:58:51] [Render thread/WARN]: ************************************
+[18:58:51] [Render thread/INFO]: Reading `3D.zip`
+[18:58:51] [Render thread/INFO]: Reading `Aesthetic.zip`
+[18:58:51] [Render thread/INFO]: Reading `Amethyst_Geode_Panorama.zip`
+[18:58:51] [Render thread/INFO]: Reading `Classic_Panorama.zip`
+[18:58:51] [Render thread/INFO]: Reading `Connected Blocks.zip`
+[18:58:51] [Render thread/INFO]: Reading `FarmlandMoistureTextures.zip`
+[18:58:51] [Render thread/WARN]: ************************************
+[18:58:51] [Render thread/ERROR]: `farmland.json` Errored. Skipping.
+[18:58:51] [Render thread/ERROR]: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 12 path $
+[18:58:51] [Render thread/WARN]: ************************************
+[18:58:51] [Render thread/INFO]: Reading `Fun.zip`
+[18:58:51] [Render thread/INFO]: Reading `Pixelated_v1.3_EnhancedVisuals by nox_cgt.zip`
+[18:58:51] [Render thread/INFO]: Reading `resources.zip`
+[18:58:51] [Render thread/INFO]: Registered painting abstract_blue
+[18:58:51] [Render thread/INFO]: Registered painting abstract_rainbow
+[18:58:51] [Render thread/INFO]: Registered painting abstract_red
+[18:58:51] [Render thread/INFO]: Registered painting abstract_sunset
+[18:58:51] [Render thread/INFO]: Registered painting arachnophobe
+[18:58:51] [Render thread/INFO]: Registered painting barn_owl
+[18:58:51] [Render thread/INFO]: Registered painting big_z
+[18:58:51] [Render thread/INFO]: Registered painting blue_bird
+[18:58:51] [Render thread/INFO]: Registered painting bluesclues
+[18:58:51] [Render thread/INFO]: Registered painting borgia
+[18:58:51] [Render thread/INFO]: Registered painting cane
+[18:58:51] [Render thread/INFO]: Registered painting cat_black
+[18:58:51] [Render thread/INFO]: Registered painting cat_gray
+[18:58:51] [Render thread/INFO]: Registered painting cat_orange
+[18:58:51] [Render thread/INFO]: Registered painting cat
+[18:58:51] [Render thread/INFO]: Registered painting colorful_squares
+[18:58:51] [Render thread/INFO]: Registered painting crest
+[18:58:51] [Render thread/INFO]: Registered painting danger_zone
+[18:58:51] [Render thread/INFO]: Registered painting decorative_gun
+[18:58:51] [Render thread/INFO]: Registered painting exit_down
+[18:58:51] [Render thread/INFO]: Registered painting exit_up
+[18:58:51] [Render thread/INFO]: Registered painting exit_left
+[18:58:51] [Render thread/INFO]: Registered painting exit_right
+[18:58:51] [Render thread/INFO]: Registered painting face_bat
+[18:58:51] [Render thread/INFO]: Registered painting face_chicken
+[18:58:51] [Render thread/INFO]: Registered painting face_cow
+[18:58:51] [Render thread/INFO]: Registered painting face_creeper
+[18:58:51] [Render thread/INFO]: Registered painting face_dog
+[18:58:51] [Render thread/INFO]: Registered painting face_enderman
+[18:58:51] [Render thread/INFO]: Registered painting face_pig
+[18:58:51] [Render thread/INFO]: Registered painting face_pigman
+[18:58:51] [Render thread/INFO]: Registered painting face_silverfish
+[18:58:51] [Render thread/INFO]: Registered painting face_skeleton
+[18:58:51] [Render thread/INFO]: Registered painting face_squid
+[18:58:51] [Render thread/INFO]: Registered painting face_zombie
+[18:58:51] [Render thread/INFO]: Registered painting fishes
+[18:58:51] [Render thread/INFO]: Registered painting flowers
+[18:58:51] [Render thread/INFO]: Registered painting fruits
+[18:58:51] [Render thread/INFO]: Registered painting ghost
+[18:58:51] [Render thread/INFO]: Registered painting glowlamp
+[18:58:51] [Render thread/INFO]: Registered painting glowstone_hourglass
+[18:58:51] [Render thread/INFO]: Registered painting iluvmc
+[18:58:51] [Render thread/INFO]: Registered painting link
+[18:58:51] [Render thread/INFO]: Registered painting mine_prosperity
+[18:58:51] [Render thread/INFO]: Registered painting no_trespassing_for_mobs
+[18:58:51] [Render thread/INFO]: Registered painting ocelot
+[18:58:51] [Render thread/INFO]: Registered painting penguin
+[18:58:51] [Render thread/INFO]: Registered painting pig_on_a_cliff
+[18:58:51] [Render thread/INFO]: Registered painting pkmn_blue
+[18:58:51] [Render thread/INFO]: Registered painting pkmn_red
+[18:58:51] [Render thread/INFO]: Registered painting pkmn_green
+[18:58:51] [Render thread/INFO]: Registered painting plains_hut
+[18:58:51] [Render thread/INFO]: Registered painting portrait_2
+[18:58:51] [Render thread/INFO]: Registered painting portrait
+[18:58:51] [Render thread/INFO]: Registered painting prison
+[18:58:51] [Render thread/INFO]: Registered painting prosperity
+[18:58:51] [Render thread/INFO]: Registered painting rest
+[18:58:51] [Render thread/INFO]: Registered painting skeleton
+[18:58:51] [Render thread/INFO]: Registered painting sky
+[18:58:51] [Render thread/INFO]: Registered painting skyblock
+[18:58:51] [Render thread/INFO]: Registered painting snake
+[18:58:51] [Render thread/INFO]: Registered painting snow_landscape
+[18:58:51] [Render thread/INFO]: Registered painting subaraki
+[18:58:51] [Render thread/INFO]: Registered painting synth_city
+[18:58:51] [Render thread/INFO]: Registered painting tapistry_a
+[18:58:51] [Render thread/INFO]: Registered painting tapistry_b
+[18:58:51] [Render thread/INFO]: Registered painting tapistry_purple
+[18:58:51] [Render thread/INFO]: Registered painting torched
+[18:58:51] [Render thread/INFO]: Registered painting waterfall
+[18:58:51] [Render thread/INFO]: Registered painting whale
+[18:58:51] [Render thread/INFO]: Registered painting wheat_field
+[18:58:51] [Render thread/INFO]: Registered painting wolf_in_wheat
+[18:58:52] [Render thread/INFO]: Initializing.
+[18:58:52] [Render thread/INFO]: Saplanting waking up! OwO
+[18:58:52] [Render thread/INFO]: Registering events.
+[18:58:52] [Render thread/INFO]: Registering commands.
+[18:58:52] [Render thread/INFO]: Loading config.
+[18:58:52] [Render thread/INFO]: Updating language.
+[18:58:52] [Render thread/INFO]: [STDOUT]: SlipperyWalls initialized!
+[18:58:52] [Render thread/INFO]: Reloading config
+[18:58:52] [Render thread/INFO]: Reloading reverb parameters
+[18:58:52] [Render thread/INFO]: Creating asynchronous mapping cache executor...
+[18:58:52] [Mappings Cache Thread #1/INFO]: Verifying cache of yarn mappings...
+[18:58:52] [Mappings Cache Thread #1/INFO]: Latest build for yarn is already cached (1 hour(s) ago, refresh in 47 hour(s))
+[18:58:52] [Mappings Cache Thread #1/INFO]: Mappings for yarn build 1.18.2+build.4 are already downloaded
+[18:58:52] [Mappings Cache Thread #1/INFO]: Verified cache of yarn mappings (took 6ms)
+[18:58:52] [Mappings Cache Thread #1/INFO]: Parsing yarn mappings...
+[18:58:52] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[18:58:52] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[18:58:52] [Render thread/INFO]: Registered region graveyard_biomes:biome_provider to index 1 for type OVERWORLD
+[18:58:52] [Render thread/INFO]: Registered region magicalforest:overworld to index 2 for type OVERWORLD
+[18:58:52] [Render thread/INFO]: Creating registry manager for mod id tinyskeletons
+[18:58:53] [Mappings Cache Thread #1/INFO]: Parsed yarn mappings (took 495ms)
+[18:58:53] [Mappings Cache Thread #1/INFO]: Caching yarn mappings...
+[18:58:53] [Mappings Cache Thread #1/INFO]: Cached yarn mappings (took 117ms)
+[18:58:53] [Mappings Cache Thread #1/INFO]: Cached mappings have been built (took 635ms)
+[18:58:53] [Mappings Cache Thread #1/INFO]:   Classes: 5775
+[18:58:53] [Mappings Cache Thread #1/INFO]:   Methods: 21620
+[18:58:53] [Mappings Cache Thread #1/INFO]:   Fields: 25198
+[18:58:53] [ForkJoinPool.commonPool-worker-1/INFO]: Shutting down asynchronous mapping cache executor...
+[18:58:53] [ForkJoinPool.commonPool-worker-1/INFO]: Injecting into root logger...
+[18:58:53] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[18:58:53] [Render thread/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[18:58:53] [Render thread/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[18:58:53] [Render thread/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[18:58:53] [Render thread/INFO]: VariableSpawnerHardness loading
+[18:58:53] [Render thread/INFO]: Loading client config for visualworkbench
+[18:58:53] [Render thread/INFO]: Creating registry manager for mod id visualworkbench
+[18:58:53] [Render thread/INFO]: Registering C2S receiver with id walljump:walljump_packet
+[18:58:53] [Render thread/INFO]: Registering C2S receiver with id walljump:doublejump_packet
+[18:58:53] [Render thread/INFO]: Registering C2S receiver with id walljump:falldistance_packet
+[18:58:53] [Render thread/INFO]: [Wall-Jump! UNOFFICIAL] is initialized!
+[18:58:53] [Render thread/INFO]: Loaded 5 Static Content files for wolveswitharmor:wolf_armor
+[18:58:54] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[18:58:54] [Render thread/INFO]: Auto Third Person initializing...
+[18:58:54] [Render thread/INFO]: [BedrockWaters] BedrockWaters initialized!
+[18:58:54] [Render thread/INFO]: [STDOUT]: Finally, something tasty ...
+[18:58:54] [Render thread/INFO]: Initializing 3D Skin Layers compatibility
+[18:58:54] [Render thread/WARN]: Method overwrite conflict for getCuboids in friendsandfoes-common.mixins.json:ModelPartAccessor from mod friendsandfoes, previously written by io.github.kosmx.bendylib.mixin.IModelPartMixin. Skipping method.
+[18:58:54] [Render thread/WARN]: Method overwrite conflict for getChildren in friendsandfoes-common.mixins.json:ModelPartAccessor from mod friendsandfoes, previously written by io.github.kosmx.bendylib.mixin.IModelPartMixin. Skipping method.
+[18:58:54] [Render thread/INFO]: [BetterF3] Loading...
+[18:58:54] [Render thread/INFO]: [BetterF3] All done!
+[18:58:55] [Render thread/INFO]: Consistency+ Main - Starting client initialization
+[18:58:55] [Render thread/INFO]: Consistency+ Main - Finished client initialization
+[18:58:55] [Render thread/INFO]: Registering cutout for copper torch
+[18:58:56] [Render thread/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on jello.mixins.json:client.dye.ModelLoaderMixin from mod jello::localvar$dng000$jello$changeIdentifierForBlocks exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18:58:56] [Render thread/INFO]: Loading Description Cache
+[18:58:56] [Render thread/INFO]: Successfully registered 'minecraft:netherite_chestplate' and 3 more items!
+[18:58:56] [Render thread/INFO]: Successfully registered 'minecraft:diamond_helmet' and 3 more items!
+[18:58:56] [Render thread/INFO]: Successfully registered 'minecraft:turtle_helmet'!
+[18:58:56] [Render thread/INFO]: Successfully registered 'minecraft:iron_helmet' and 3 more items!
+[18:58:56] [Render thread/INFO]: Successfully registered 'minecraft:chainmail_helmet' and 3 more items!
+[18:58:56] [Render thread/INFO]: Successfully registered 'minecraft:golden_helmet' and 3 more items!
+[18:58:56] [Render thread/INFO]: Successfully registered 'minecraft:leather_helmet' and 3 more items!
+[18:58:56] [Render thread/INFO]: Successfully registered 'minecraft:elytra'!
+[18:58:56] [Render thread/INFO]: Elytra Flight Hud initialized!
+[18:58:56] [Render thread/INFO]: Loaded config file.
+[18:58:56] [Render thread/INFO]: Saved config file.
+[18:58:56] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[18:58:57] [Render thread/INFO]: Successfully loaded 'C:\Users\Adam\AppData\Roaming\PrismLauncher\instances\Yggdrasil-0.0.6.118\.minecraft\config\healthoverlay.json5'.
+[18:58:58] [Render thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on jello.mixins.json:client.CreativeInventoryMixin from mod jello::handler$dna000$jello$startEventRegistry exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18:58:59] [Render thread/INFO]: [LambdaBetterGrass] Initializing LambdaBetterGrass...
+[18:58:59] [Render thread/INFO]: [LambdaBetterGrass] Configuration loaded.
+[18:58:59] [Render thread/WARN]: Using Cloth Config GUI
+[18:59:00] [Render thread/INFO]: [STDOUT]: PERSISTENT
+[18:59:00] [Render thread/INFO]: Loading 3D skin compat
+[18:59:01] [Render thread/INFO]: Initialized spyglass-improvements
+[18:59:01] [Render thread/INFO]: Reloaded configs for wandering_collector (universal/highest)
+[18:59:01] [Render thread/INFO]: Registering S2C receiver with id walljump:serverconfig_packet
+[18:59:01] [Render thread/INFO]: [Wall-Jump! UNOFFICIAL] Client is initialized!
+[18:59:01] [Render thread/INFO]: [Window Title Changer]: Window Title Changer by Szum1223321 ready!
+[18:59:01] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Cached update file detected, using that!
+[18:59:01] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[18:59:02] [Render thread/INFO]: Debug functionality is disabled.
+[18:59:02] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[18:59:02] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[18:59:02] [Render thread/INFO]: Shaders are disabled
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] TRY TO LOAD MOD MOBS
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] scanning directory: allay
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.allay:allay added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] scanning directory: creeperoverhaul
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:dripstone_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:cave_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:hills_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:jungle_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:bamboo_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:desert_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:badlands_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:savannah_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:mushroom_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:swamp_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:dark_oak_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:beach_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:snowy_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.creeperoverhaul:spruce_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] scanning directory: duckling
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.duckling:quackling added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.duckling:duck added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] scanning directory: ecologics
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.ecologics:penguin added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.ecologics:squirrel added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.ecologics:coconut_crab added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.ecologics:camel added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] scanning directory: friendsandfoes
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.friendsandfoes:moobloom added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.friendsandfoes:copper_golem added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.friendsandfoes:glare added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.friendsandfoes:iceologer added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.friendsandfoes:mauler added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] scanning directory: graveyard
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.graveyard:skeleton_creeper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.graveyard:nightmare added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.graveyard:ghoul added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.graveyard:revenant added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.graveyard:corrupted_vindicator added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.graveyard:corrupted_pillager added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.graveyard:wraith added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.graveyard:acolyte added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.graveyard:reaper added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] scanning directory: guardvillagers
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.guardvillagers:guard added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] scanning directory: tinyskeletons
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.tinyskeletons:baby_skeleton added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.tinyskeletons:baby_wither_skeleton added
+[18:59:02] [Render thread/INFO]: [STDOUT]: [AdvancedCompass] Mob: advancedcompass.tinyskeletons:baby_stray added
+[18:59:03] [Render thread/INFO]: enabled vertex attrib rendering path
+[18:59:04] [Render thread/INFO]: Hardware information:
+[18:59:04] [Render thread/INFO]: CPU: 4x Intel(R) Pentium(R) CPU G4560 @ 3.50GHz
+[18:59:04] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 537.13)
+[18:59:04] [Render thread/INFO]: OS: Windows 10 (10.0)
+[18:59:04] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_3295 in sodium.mixins.json:features.chunk_rendering.MixinWorldRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[18:59:06] [Render thread/WARN]: @Redirect conflict. Skipping dynamiccrosshair-common.mixins.json:InGameHudMixin from mod dynamiccrosshair->@Redirect::dynamiccrosshair$debugCrosshair(Lnet/minecraft/class_315;)Z with priority 900, already redirected by betterf3.mixins.json:debugcrosshair.DebugCrosshairMixin from mod betterf3->@Redirect::removeDebugCrosshair(Lnet/minecraft/class_315;)Z with priority 1100
+[18:59:06] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[18:59:06] [Render thread/INFO]: ARRP register - before vanilla
+[18:59:06] [Render thread/INFO]: ARRP register - after vanilla
+[18:59:06] [Render thread/INFO]: Invalidating pack caches
+[18:59:06] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Achievement Plates, Additionalentityattributes, Runtime Resource Pack, Advanced Compass, Advancement Plaques, Allay Mod, Amecs, Amecs API, Annotated DI, Apoli, AppleSkin, Armor Stand Swap, ArmorHotswap, Armor Sound Tweak, Auto Third Person, Axes Are Weapons, Axolotl Item Fix, Better Enchanted Books, BedBenefits, BedrockWaters, Beehive Tooltips, Better Resource Pack Sorting, Better Beds, Better Combat, Better Enchantment Boosting, BetterF3, Better Third Person, BoatContainer, Bone Equipment, Bookshelf, The Box Trot, Better Recipe Book, Calio, Camp Fires Cook Mobs, Cardinal Components API (base), Cardinal Components API (entities), Cardinal Components API (world saves), Chat Heads, Chipped, CleanView, Clear Skies, Cloth Config v6, Clumps, Coat, Coins, Connected Doors, Consistency Plus, Continuity, Copper Lamp, Crafting Tweaks, Crawl, CreativeCore (Fabric), Creeper Overhaul, Croptopia, ConnectedTexturesMod for Fabric, Cull Less Leaves, Custom Cursor Mod, Custom FoV, Custom LAN, True Darkness, DeathKnell, Detail Armor Bar, Draggable Resource Packs, DragonLoot, Drippy Loading Screen, Duckling, Dynamic Crosshair, Dynamic Crosshair Compat, Dynamic FPS, Easy Magic, Ecologics, Effective, Elytra Flight Hud, Elytra Trinket, Emotecraft, EnchantmentDescriptions, Enhanced Attack Indicator, Enhanced Block Entities, Enhanced Visuals (Fabric), EntityCulling-Fabric, Exline's Awnings, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Command API (v1), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Language Kotlin, Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, Fabulous Clouds, Falling Leaves, FancyMenu, Faster tools, Fireplace Lib, FirstpersonModel, Forge Config API Port, FriendlyFire, Friends&Foes, GBfabrictools, Geckolib, Gilded Netherite, goosik-config, The Graveyard, The Graveyard Biomes, Guard Villagers Fabric, Example Mod, Health Overlay, Here be no Dragons!, Highlighter, Homing Ender Eye, Icarus, Illuminations, Immersive Weathering, Biome Particle Weather, Incendium, Indicatia, Indium, Infusion Table, Interactic, Inventory Profiles Next, InvMove, Iris, Iron Chests: Restocked, ItemFlexer, Jade, Jankson, Jello, Kanos Config, Keybind Fix, KleeSlabs, Konkrete, Kyrpt Config, LambdaBetterGrass, lazy-language-loader, LazyDFU, Legendary Tooltips, Lenient Stack Size, LibBlockAttributes (Core), libIPN, LibMultiPart, LibMultiPart (Dependency Container), Lib Network Stack, Lithium, Distant Horizons, Lucy's Sloths, Magical Forest, More Axolotl Variants Mod, Macaw's Bridges, Macaw's Roofs, Merchant Markers, Merge Enchantments, MidnightLib, Cammie's Minecart Tweaks, Manningham Mills, ModernFix, Mod Menu, Netherite Nuggets, NotEnoughAnimations, OmegaConfig, Online Detector, On Soul Fire, Origins, Improved Flame Overlays, o?o, Paginated Advancements, Paintings++, Patchouli, Pehkui, Physics Mod, Pal, Presence Footsteps, Puzzle, Puzzle Base, Puzzle GUI, Puzzle Models, Puzzle Splash Screen, Quick Shulker, Reach Entity Attributes, Rings of Ascension, Ruined Equipment, Saplanting, Seamless Loading Screen, Shulker Box Tooltip, 3d Skin Layers, Smooth Scrolling Everywhere, SnowyLeavesPlus, Sodium, Sound Physics Remastered, Sound Categories, SpruceUI, Spyglass Improvements, StackDeobfuscator, Starlight, Static Data, StepUp, Stonecutter Recipe Tags, Tax Free Levels, Energy, Telepistons, TerraBlender, Tiny Skeletons, Torch hit!, Transparent, Traveler's Backpack, Trinkets, tweed4_annotated, tweed4_base, tweed4_data, tweed4_data_hjson, tweed4_tailor_coat, tweed4_tailor_lang_json_descriptions, tweed4_tailor_screen, Unfixed Seeds, Unforgiving Void, Vein Mining, Villager Names, Visuality, Wall-Jump! UNOFFICIAL [FABRIC], Wandering Collector, Drip Sounds, WaveyCapes, Window Title Changer, Winter Coats, Wolves With Armor, WorldTime), Pixelated_v1.3_EnhancedVisuals by nox_cgt.zip, illuminations/pixelaccurate, Aesthetic.zip, immersive_weathering/better_brick_blocks, immersive_weathering/biome_tinted_mossy_blocks, jello/continuity_comp, continuity/glass_pane_culling_fix, continuity/default, telepistons/sticky_sides, minecraft/physicsmod, Better+Maps+1.17.zip, Better-Leaves-6.2-1.13+.zip, CreeperOverhaulOverhaul_1.18.1-1.0.zip, EclecticTrove-noconfig-1.18.1-1.1.0.zip, Fixes.zip, HUD.zip, OX.zip, Parity.zip, Terrain.zip, Unobtrusive.zip, Utility.zip, Variation.zip
+[18:59:06] [Render thread/INFO]: [LambdaBetterGrass] Inject generated resource packs.
+[18:59:07] [Render thread/INFO]: [DRIPPY LOADING SCREEN] Initializing fonts for text rendering..
+[18:59:07] [Render thread/INFO]: [DRIPPY LOADING SCREEN] Calculating animation sizes for FancyMenu..
+[18:59:07] [Render thread/INFO]: [FANCYMENU] Pre-loading animations if enabled in config..
+[18:59:07] [Render thread/INFO]: [FANCYMENU] Updating animation sizes..
+[18:59:08] [Render thread/INFO]: [KONKRETE] Client-side libs ready to use!
+[18:59:08] [Render thread/INFO]: [STDOUT]: [KONKRETE] Running PostLoadingEvents for mod: fancymenu
+[18:59:09] [Render thread/INFO]: [STDOUT]: [KONKRETE] PostLoadingEvents completed for mod: fancymenu
+[18:59:09] [Render thread/INFO]: [STDOUT]: [KONKRETE] Running PostLoadingEvents for mod: drippyloadingscreen
+[18:59:09] [Render thread/INFO]: [STDOUT]: [KONKRETE] PostLoadingEvents completed for mod: drippyloadingscreen
+[18:59:09] [Render thread/INFO]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[18:59:10] [Render thread/INFO]: ReflectionHandler: unable to find the Optifine fog field. If Optifine isn't installed this can be ignored.
+[18:59:11] [Render thread/INFO]: Distant Horizons, Version: 1.6.4a
+[18:59:11] [Render thread/INFO]: Registored mod comatibility accessor for Sodium-Fabric
+[18:59:11] [Render thread/INFO]: Registored mod comatibility accessor for Starlight-Fabric-1.18.X
+[18:59:12] [Render thread/WARN]: Shader color_convolve could not find uniform named InSize in the specified shader program.
+[18:59:12] [Render thread/INFO]: Start loading plugin from Jade
+[18:59:12] [Render thread/INFO]: Start loading plugin from Jade
+[18:59:13] [Render thread/INFO]: Start loading plugin from Jade
+[18:59:13] [Render thread/INFO]: [STDOUT]: INDEXED: Client started. Loading config.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 0. It is called "minecraft:saddle" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@18673672.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 1. It is called "minecraft:diamond_horse_armor" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@108e6e61.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 2. It is called "minecraft:golden_horse_armor" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@7e177900.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 3. It is called "minecraft:iron_horse_armor" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@30e4d237.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 4. It is called "minecraft:leather_horse_armor" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@1191b6ff.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 5. It is called "minecraft:enchanted_book" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@728f2fca.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 6. It is called "minecraft:writable_book" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@371597e2.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 7. It is called "minecraft:written_book" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@21f69e5d.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 8. It is called "minecraft:knowledge_book" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@3d4cf2d2.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 9. It is called "minecraft:mushroom_stew" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@36366bce.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 10. It is called "minecraft:suspicious_stew" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2d87406d.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 11. It is called "minecraft:rabbit_stew" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@381637f6.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 12. It is called "minecraft:beetroot_soup" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@62169844.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 13. It is called "minecraft:music_disc_11" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@67fbe7d3.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 14. It is called "minecraft:music_disc_13" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@70685769.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 15. It is called "minecraft:music_disc_blocks" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@79c86715.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 16. It is called "minecraft:music_disc_cat" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2fca14d0.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 17. It is called "minecraft:music_disc_chirp" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@1737ab85.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 18. It is called "minecraft:music_disc_far" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@25566515.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 19. It is called "minecraft:music_disc_mall" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@1f1c4e65.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 20. It is called "minecraft:music_disc_pigstep" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@600fb5c2.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 21. It is called "minecraft:music_disc_mellohi" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@4ace51c5.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 22. It is called "minecraft:music_disc_stal" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@5ca6fb44.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 23. It is called "minecraft:music_disc_strad" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2134e9d3.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 24. It is called "minecraft:music_disc_wait" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@3c88e992.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 25. It is called "minecraft:music_disc_ward" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@470d7bf.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 26. It is called "minecraft:music_disc_otherside" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@6fe760ae.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 27. It is called "minecraft:bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@691b66f0.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 28. It is called "minecraft:milk_bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@12a4c638.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 29. It is called "minecraft:lava_bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@106b36fc.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 30. It is called "minecraft:water_bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@44ddd64f.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 31. It is called "minecraft:pufferfish_bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@76c304c2.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 32. It is called "minecraft:salmon_bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@42e28924.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 33. It is called "minecraft:cod_bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@bf78b52.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 34. It is called "minecraft:tropical_fish_bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@21b25bcd.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 35. It is called "minecraft:axolotl_bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@4fb9be2d.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 36. It is called "minecraft:powder_snow_bucket" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@1944b557.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 37. It is called "minecraft:ender_pearl" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2ede0036.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 38. It is called "minecraft:snowball" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@1d815a13.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 39. It is called "minecraft:egg" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@1f4bc758.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 40. It is called "minecraft:armor_stand" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@239937eb.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 41. It is called "minecraft:cake" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@7d984c1e.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 42. It is called "minecraft:potion" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@6aded07c.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 43. It is called "minecraft:splash_potion" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2b6eab78.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 44. It is called "minecraft:lingering_potion" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@4122f791.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 45. It is called "minecraft:totem_of_undying" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@7e65ab17.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 46. It is called "minecraft:oak_boat" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@62a4c997.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 47. It is called "minecraft:acacia_boat" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@3c4f8bd0.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 48. It is called "minecraft:birch_boat" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@6a076db7.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 49. It is called "minecraft:jungle_boat" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@39695ef3.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 50. It is called "minecraft:spruce_boat" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@7d45d038.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 51. It is called "minecraft:dark_oak_boat" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@3d14c54b.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 52. It is called "minecraft:oak_sign" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@6caf7d8b.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 53. It is called "minecraft:acacia_sign" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@1fc2382b.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 54. It is called "minecraft:birch_sign" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@4c55effb.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 55. It is called "minecraft:jungle_sign" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@57f045a7.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 56. It is called "minecraft:spruce_sign" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@402439f7.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 57. It is called "minecraft:dark_oak_sign" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@4e2952b8.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 58. It is called "minecraft:crimson_sign" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2de046b1.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 59. It is called "minecraft:warped_sign" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@7868f3d7.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 60. It is called "minecraft:minecart" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@19e286ac.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 61. It is called "minecraft:chest_minecart" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@1d5abbba.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 62. It is called "minecraft:furnace_minecart" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@3220b36e.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 63. It is called "minecraft:command_block_minecart" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@d6908b6.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 64. It is called "minecraft:hopper_minecart" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@332851.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 65. It is called "minecraft:tnt_minecart" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@48fcc486.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 66. It is called "minecraft:white_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@7f70b534.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 67. It is called "minecraft:black_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@3a992ed4.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 68. It is called "minecraft:blue_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2371e876.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 69. It is called "minecraft:brown_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@d07c06a.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 70. It is called "minecraft:cyan_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@77241deb.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 71. It is called "minecraft:gray_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@4b87255.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 72. It is called "minecraft:green_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@282618ec.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 73. It is called "minecraft:lime_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@1b919912.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 74. It is called "minecraft:yellow_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@4c0d14ce.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 75. It is called "minecraft:orange_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@be0edc0.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 76. It is called "minecraft:red_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@13996528.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 77. It is called "minecraft:light_blue_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@4573740.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 78. It is called "minecraft:light_gray_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@20d8e860.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 79. It is called "minecraft:magenta_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2cda9f56.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 80. It is called "minecraft:pink_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@74b20fc0.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 81. It is called "minecraft:purple_banner" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@4962cb21.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 82. It is called "minecraft:white_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2e9ea185.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 83. It is called "minecraft:black_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@5646bb2f.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 84. It is called "minecraft:blue_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@32ee7228.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 85. It is called "minecraft:brown_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@6d0a8c97.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 86. It is called "minecraft:cyan_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@36c38a3a.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 87. It is called "minecraft:gray_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@553fc00e.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 88. It is called "minecraft:green_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@140197b3.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 89. It is called "minecraft:lime_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2dd6df90.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 90. It is called "minecraft:yellow_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@7ee124a.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 91. It is called "minecraft:orange_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2cfa8d09.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 92. It is called "minecraft:red_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@34de2b2a.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 93. It is called "minecraft:light_blue_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@2f6f587e.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 94. It is called "minecraft:light_gray_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@58e4739b.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 95. It is called "minecraft:magenta_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@200e2f4b.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 96. It is called "minecraft:pink_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@654cd71b.
+[18:59:13] [Render thread/INFO]: [STDOUT]: Found entry at 97. It is called "minecraft:purple_bed" and has a max stack of com.astrazoey.lenientstacksize.ItemStackConfig@3035cf64.
+[18:59:14] [Render thread/INFO]: [STDOUT]: (MidnightLib) Player hats successfully loaded!
+[18:59:14] [Render thread/INFO]: Loading PlayerAnimator support!
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain texture->texture in minecraft:block/template_large_sapling
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain texture->texture in minecraft:block/template_large_sapling
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain texture->texture in minecraft:block/template_large_sapling
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain texture->texture in minecraft:block/template_large_sapling
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:29] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain crop->crop in croptopia:block/croptopia_leaves
+[18:59:32] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain frosty->frosty in immersive_weathering:block/frosty_tinted_cross
+[18:59:32] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain grass->grass in immersive_weathering:block/frosty_tinted_cross
+[18:59:32] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain grass->grass in immersive_weathering:block/frosty_tinted_cross
+[18:59:32] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain frosty->frosty in immersive_weathering:block/frosty_tinted_cross
+[18:59:32] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain frosty->frosty in immersive_weathering:block/frosty_tinted_cross
+[18:59:32] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain grass->grass in immersive_weathering:block/frosty_tinted_cross
+[18:59:32] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain grass->grass in immersive_weathering:block/frosty_tinted_cross
+[18:59:32] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain frosty->frosty in immersive_weathering:block/frosty_tinted_cross
+[18:59:32] [Worker-ResourceReload-2/WARN]: Unable to resolve texture due to reference chain frosty->frosty in immersive_weathering:block/frosty_tinted_cross
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.ArrayList$SubList.get(ArrayList.java:1149)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:306)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:282)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.createFunction(MathBuilder.java:439)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:266)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:308)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:283)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.core.molang.MolangParser.parseSymbolsMolang(MolangParser.java:228)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.core.molang.MolangParser.parseOneLine(MolangParser.java:216)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.core.molang.MolangParser.parseExpression(MolangParser.java:174)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.core.molang.MolangParser.parseJson(MolangParser.java:154)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.util.json.JsonKeyFrameUtils.parseExpression(JsonKeyFrameUtils.java:180)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJson(JsonKeyFrameUtils.java:58)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJsonToRotationKeyFrames(JsonKeyFrameUtils.java:174)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.util.json.JsonAnimationUtils.deserializeJsonToAnimation(JsonAnimationUtils.java:282)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.file.AnimationFileLoader.loadAllAnimations(AnimationFileLoader.java:32)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.resource.GeckoLibCache.lambda$reload$0(GeckoLibCache.java:73)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.resource.GeckoLibCache.lambda$loadResources$5(GeckoLibCache.java:91)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.ArrayList$SubList.get(ArrayList.java:1149)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:306)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:282)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.createFunction(MathBuilder.java:439)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:266)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:308)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.shadowed.eliotlash.mclib.math.MathBuilder.parseSymbols(MathBuilder.java:283)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.core.molang.MolangParser.parseSymbolsMolang(MolangParser.java:228)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.core.molang.MolangParser.parseOneLine(MolangParser.java:216)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.core.molang.MolangParser.parseExpression(MolangParser.java:174)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.core.molang.MolangParser.parseJson(MolangParser.java:154)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.util.json.JsonKeyFrameUtils.parseExpression(JsonKeyFrameUtils.java:180)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJson(JsonKeyFrameUtils.java:58)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.util.json.JsonKeyFrameUtils.convertJsonToRotationKeyFrames(JsonKeyFrameUtils.java:174)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.util.json.JsonAnimationUtils.deserializeJsonToAnimation(JsonAnimationUtils.java:282)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.file.AnimationFileLoader.loadAllAnimations(AnimationFileLoader.java:32)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.resource.GeckoLibCache.lambda$reload$0(GeckoLibCache.java:73)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at software.bernie.geckolib3.resource.GeckoLibCache.lambda$loadResources$5(GeckoLibCache.java:91)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[18:59:38] [Worker-ResourceReload-4/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[18:59:39] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on VE228 (NVIDIA High Definition Audio)
+[18:59:39] [Render thread/INFO]: Initializing Sound Physics
+[18:59:39] [Render thread/INFO]: EFX Extension recognized
+[18:59:39] [Render thread/INFO]: Aux slot 1 created
+[18:59:39] [Render thread/INFO]: Aux slot 2 created
+[18:59:39] [Render thread/INFO]: Aux slot 3 created
+[18:59:39] [Render thread/INFO]: Aux slot 4 created
+[18:59:40] [Render thread/INFO]: EFX ready
+[18:59:40] [Render thread/INFO]: Sound engine started
+[18:59:40] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[18:59:40] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/blocks.png
+[18:59:40] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[18:59:40] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/signs.png
+[18:59:40] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[18:59:40] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/shield_patterns.png
+[18:59:40] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[18:59:40] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/banner_patterns.png
+[18:59:40] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[18:59:40] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/chest.png
+[18:59:40] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[18:59:40] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/shulker_boxes.png
+[18:59:40] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[18:59:40] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/beds.png
+[18:59:48] [Render thread/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on jello.mixins.json:client.dye.ShulkerBoxBlockEntityRendererMixin from mod jello::localvar$dni000$jello$makeDyeColorNull exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[18:59:51] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/particles.png-atlas
+[18:59:51] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/particles.png
+[18:59:51] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[18:59:51] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/paintings.png
+[18:59:51] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[18:59:51] [Render thread/INFO]: [STDOUT]: minecraft:textures/atlas/mob_effects.png
+[18:59:52] [Render thread/INFO]: [STDOUT]: [Telepistons] Read settings successfully
+[18:59:53] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 0 jsons
+[18:59:53] [Render thread/INFO]: Not reloading resource pack-based books as client world is missing
+[18:59:53] [Render thread/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED
+[18:59:53] [Render thread/INFO]: Skipping non-result value minecraft:soul_lantern=UNASSIGNED
+[18:59:53] [Render thread/INFO]: Painting transparency set to: true
+[18:59:53] [Render thread/INFO]: Item Frame transparency set to: true
+[18:59:53] [Render thread/INFO]: Beacon Beam transparency set to: false
+[18:59:53] [Render thread/INFO]: Reloaded configs for wandering_collector (client/smallest)
+[18:59:56] [Render thread/INFO]: Reloading sounds!
+[18:59:56] [Render thread/WARN]: Game took 107.776 seconds to start
+[18:59:56] [Render thread/INFO]: Running post-reload tasks..
+[19:00:42] [Render thread/INFO]: [STDOUT]: Name: screenshots/worlds/singleplayer/Whayooah 2.png
+[19:00:42] [Render thread/INFO]: [STDOUT]: Name: screenshots/worlds/singleplayer/Whayooah 2.png
+[19:00:43] [Render thread/ERROR]: Couldn't load pack metadata
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 4 column 20 path $.pack.description
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:505) ~[client-intermediary.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:555) ~[client-intermediary.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:563) ~[client-intermediary.jar:?]
+	at net.minecraft.resource.AbstractFileResourcePack.parseMetadata(AbstractFileResourcePack.java:73) ~[client-intermediary.jar:?]
+	at net.minecraft.resource.AbstractFileResourcePack.parseMetadata(AbstractFileResourcePack.java:65) ~[client-intermediary.jar:?]
+	at net.minecraft.resource.ResourcePackProfile.of(ResourcePackProfile.java:37) ~[client-intermediary.jar:?]
+	at net.dark_roleplay.gdarp.pack_finders.MultiFilePackFinder.register(MultiFilePackFinder.java:110) ~[global_packs-fabric-1.18.2-1.12.4_fabric.jar:?]
+	at net.minecraft.resource.ResourcePackManager.providePackProfiles(ResourcePackManager.java:45) ~[client-intermediary.jar:?]
+	at net.minecraft.resource.ResourcePackManager.scanPacks(ResourcePackManager.java:38) ~[client-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.loadDataPacks(MinecraftServer.java:1346) ~[client-intermediary.jar:?]
+	at net.minecraft.server.SaveLoader.ofLoaded(SaveLoader.java:35) ~[client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.createSaveLoader(MinecraftClient.java:2122) ~[client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.startIntegratedServer(MinecraftClient.java:1972) ~[client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.startIntegratedServer(MinecraftClient.java:1937) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$Entry.start(WorldListWidget.java:431) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$Entry.play(WorldListWidget.java:340) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$Entry.mouseClicked(WorldListWidget.java:271) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:359) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:537) ~[client-intermediary.jar:?]
+	at net.minecraft.client.Mouse.method_1611(Mouse.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:492) ~[client-intermediary.jar:?]
+	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.client.Mouse.method_22686(Mouse.java:165) ~[client-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.execute(ThreadExecutor.java:103) ~[client-intermediary.jar:?]
+	at net.minecraft.client.Mouse.method_22684(Mouse.java:165) ~[client-intermediary.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) [lwjgl-glfw-3.2.2.jar:?]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:?]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) [lwjgl-glfw-3.2.2.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:222) [client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1150) [client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:737) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:236) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) [fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.21.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 4 column 20 path $.pack.description
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1403) ~[gson-2.8.9.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:592) ~[gson-2.8.9.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:424) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:661) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:655) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$33$1.read(TypeAdapters.java:866) ~[gson-2.8.9.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:503) ~[client-intermediary.jar:?]
+	... 37 more
+[19:00:43] [Render thread/WARN]: Couldn't find pack meta for pack global:NoOrigin
+[19:00:45] [Render thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [jmh, head, list] and [jmh, head, mob-name] with inputs: [list]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[19:00:46] [Render thread/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[19:00:47] [Worker-ResourceReload-3/ERROR]: Couldn't load tag boneequipment:pickaxes as it is missing following references: boneequipment:bone_pick (from Bone Equipment)
+[19:00:50] [Worker-ResourceReload-3/WARN]: Method overwrite conflict for getRequirements in owo.mixins.json:offline.AdvancementProgressAccessor from mod owo, previously written by de.dafuqs.paginatedadvancements.mixin.AdvancementProgressMixin. Skipping method.
+[19:00:51] [Render thread/ERROR]: Parsing error loading recipe boneequipment:bone_hammer_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'hammermod:hammer_bone'
+	at net.minecraft.recipe.ShapedRecipe.method_17878(ShapedRecipe.java:253) ~[client-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.recipe.ShapedRecipe.getItem(ShapedRecipe.java:253) ~[client-intermediary.jar:?]
+	at net.minecraft.recipe.ShapedRecipe.outputFromJson(ShapedRecipe.java:240) ~[client-intermediary.jar:?]
+	at net.minecraft.recipe.ShapedRecipe$Serializer.read(ShapedRecipe.java:273) ~[client-intermediary.jar:?]
+	at net.minecraft.recipe.ShapedRecipe$Serializer.read(ShapedRecipe.java:260) ~[client-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:125) ~[client-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:54) ~[client-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:33) ~[client-intermediary.jar:?]
+	at net.minecraft.resource.SinglePreparationResourceReloader.method_18790(SinglePreparationResourceReloader.java:13) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.resource.SimpleResourceReload.method_18365(SimpleResourceReload.java:69) ~[client-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:157) ~[client-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[client-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:131) ~[client-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:140) ~[client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.runTasks(MinecraftClient.java:28971) ~[client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.createSaveLoader(MinecraftClient.java:2123) ~[client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.startIntegratedServer(MinecraftClient.java:1972) ~[client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.startIntegratedServer(MinecraftClient.java:1937) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$Entry.start(WorldListWidget.java:431) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$Entry.play(WorldListWidget.java:340) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.screen.world.WorldListWidget$Entry.mouseClicked(WorldListWidget.java:271) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.widget.EntryListWidget.mouseClicked(EntryListWidget.java:359) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.ParentElement.mouseClicked(ParentElement.java:537) ~[client-intermediary.jar:?]
+	at net.minecraft.client.Mouse.method_1611(Mouse.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:492) ~[client-intermediary.jar:?]
+	at net.minecraft.client.Mouse.onMouseButton(Mouse.java:94) ~[client-intermediary.jar:?]
+	at net.minecraft.client.Mouse.method_22686(Mouse.java:165) ~[client-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.execute(ThreadExecutor.java:103) ~[client-intermediary.jar:?]
+	at net.minecraft.client.Mouse.method_22684(Mouse.java:165) ~[client-intermediary.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) [lwjgl-glfw-3.2.2.jar:?]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:?]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) [lwjgl-glfw-3.2.2.jar:?]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:222) [client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.render(MinecraftClient.java:1150) [client-intermediary.jar:?]
+	at net.minecraft.client.MinecraftClient.run(MinecraftClient.java:737) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:236) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) [fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.21.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?]
+[19:00:51] [Render thread/INFO]: Loaded 14 recipes
+[19:00:55] [Render thread/ERROR]: Parsing error loading custom advancement exlineawnings:recipes/misc/oak_log_awning: Unknown required criterion 'has_plank'
+[19:00:55] [Render thread/ERROR]: Parsing error loading custom advancement exlineawnings:recipes/misc/birch_log_awning: Unknown required criterion 'has_plank'
+[19:00:55] [Render thread/ERROR]: Parsing error loading custom advancement exlineawnings:recipes/misc/dark_oak_log_awning: Unknown required criterion 'has_plank'
+[19:00:55] [Render thread/ERROR]: Parsing error loading custom advancement exlineawnings:recipes/misc/spruce_log_awning: Unknown required criterion 'has_plank'
+[19:00:55] [Render thread/ERROR]: Parsing error loading custom advancement exlineawnings:recipes/misc/crimson_stem_awning: Unknown required criterion 'has_plank'
+[19:00:55] [Render thread/ERROR]: Parsing error loading custom advancement exlineawnings:recipes/misc/warped_stem_awning: Unknown required criterion 'has_plank'
+[19:00:55] [Render thread/ERROR]: Parsing error loading custom advancement exlineawnings:recipes/misc/acacia_log_awning: Unknown required criterion 'has_plank'
+[19:00:55] [Render thread/ERROR]: Parsing error loading custom advancement exlineawnings:recipes/misc/jungle_log_awning: Unknown required criterion 'has_plank'
+[19:00:56] [Render thread/INFO]: Loaded 3155 advancements

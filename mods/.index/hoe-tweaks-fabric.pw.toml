@@ -1,0 +1,14 @@
+name = "Hoe Tweaks (Legacy Fabric)"
+filename = "hoetweaks-fabric_1.18.x-1.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f2a404d5f08a79a7c1ba2c2c0657f5834a319a61"
+
+[update]
+[update.curseforge]
+file-id = 3675763
+project-id = 539835

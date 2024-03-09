@@ -1,0 +1,14 @@
+name = "BoatContainer"
+filename = "boatcontainer-1.2.4-1.18.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "456909043f212607f43f825fbf4ea23319b51b5e"
+
+[update]
+[update.curseforge]
+file-id = 3984801
+project-id = 526274

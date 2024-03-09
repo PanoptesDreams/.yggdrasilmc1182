@@ -1,0 +1,14 @@
+name = "Lib Multipart"
+filename = "libmultipart-all-0.7.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "07426854db63fe222301b084cdbabb9abfc90c54"
+
+[update]
+[update.curseforge]
+file-id = 3672602
+project-id = 344491

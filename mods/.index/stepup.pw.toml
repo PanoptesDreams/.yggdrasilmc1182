@@ -1,0 +1,14 @@
+name = "StepUp"
+filename = "stepup-1.18.2-fabric0.47.10-1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/AnNXBWLE/versions/1.18.2-fabric0.47.10-1.1/stepup-1.18.2-fabric0.47.10-1.1.jar"
+hash-format = "sha512"
+hash = "1f14980970c5db4b57ba988c50ebe15b866860d690092800fcdcb21f4e4b5632d07112ff2398fc61ab5b83c891ac46083a29ee551e26c3568e10505bd3e7423d"
+
+[update]
+[update.modrinth]
+mod-id = "AnNXBWLE"
+version = "ddLXINDs"

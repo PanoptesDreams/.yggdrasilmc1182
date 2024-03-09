@@ -1,0 +1,11 @@
+{
+  "text.mod_id.name": "Campfires Cook Mobs",
+  "text.autoconfig.camp_fires_cook_mobs.title": "Канфігурацыя Campfires Cook Mobs",
+  "text.autoconfig.camp_fires_cook_mobs.option.standard_campfires_burn_items": "Звычайныя вогнішчы спальваюць пакіданыя на іх прадметы",
+  "text.autoconfig.camp_fires_cook_mobs.option.soul_campfires_burn_items": "Вогнішчы душ спальваюць пакіданыя на іх прадметы",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_standard_campfires": "Марозны поступ абараняе ад звычайных вогнішчаў",
+  "text.autoconfig.camp_fires_cook_mobs.option.frost_walker_protects_from_soul_campfires": "Марозны поступ абараняе ад вогнішчаў душ",
+  "text.autoconfig.camp_fires_cook_mobs.option.fetch_translation_updates": "Уключыць абнаўлення перакладу Crowdin",
+  "text.mod_id.no_config_screen.title": "Канфігурацыя ${name} недаступная",
+  "text.mod_id.no_config_screen.message": "§cУсталюйце Cloth Config для ўключэння канфігурацыі."
+}

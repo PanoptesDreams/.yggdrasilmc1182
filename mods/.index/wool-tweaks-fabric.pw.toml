@@ -1,0 +1,14 @@
+name = "Wool Tweaks (Legacy Fabric)"
+filename = "wooltweaks-fabric_1.18.x-1.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4267fc909d68ee137d628fc277fcfa5115fc9ec6"
+
+[update]
+[update.curseforge]
+file-id = 3669337
+project-id = 527586

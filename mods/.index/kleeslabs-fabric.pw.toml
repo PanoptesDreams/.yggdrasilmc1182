@@ -1,0 +1,14 @@
+name = "KleeSlabs"
+filename = "kleeslabs-fabric-1.18.2-11.1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b0bc73aa13a60a17225a17ee093650003ed0a826"
+
+[update]
+[update.curseforge]
+file-id = 3830925
+project-id = 547695

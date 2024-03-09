@@ -1,0 +1,14 @@
+name = "Lucy's Sloths [Fabric]"
+filename = "lucys-sloths-1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "edddde9b43d04fde08e72ab081f6a6c2ec722247"
+
+[update]
+[update.curseforge]
+file-id = 3785498
+project-id = 622081

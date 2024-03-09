@@ -1,0 +1,14 @@
+name = "Wandering Collector"
+filename = "wanderingcollector-1.2.1+mc1.18.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/enYiOcBu/versions/LxEjAAHI/wanderingcollector-1.2.1%2Bmc1.18.2.jar"
+hash-format = "sha512"
+hash = "ef0811ca115a2dba2fd444dbbf1a5cfa02ee5fd1fcad76da395f2e065adbd2ae4bb4f59af6dbc8e751fefe3f9b3bbcf83e1a6ac2b823f3db89c9776587e2c86a"
+
+[update]
+[update.modrinth]
+mod-id = "enYiOcBu"
+version = "LxEjAAHI"
